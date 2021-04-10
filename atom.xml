@@ -6,7 +6,7 @@
   <link href="http://blog.wmz.link/atom.xml" rel="self"/>
   
   <link href="http://blog.wmz.link/"/>
-  <updated>2021-03-05T04:57:44.061Z</updated>
+  <updated>2021-04-10T08:15:21.124Z</updated>
   <id>http://blog.wmz.link/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://blog.wmz.link/undefined.html"/>
-    <id>http://blog.wmz.link/undefined.html</id>
-    <published>2021-03-05T04:57:44.061Z</published>
-    <updated>2021-03-05T04:57:44.061Z</updated>
+    <title>关于我对迷你世界和我的世界的看法</title>
+    <link href="http://blog.wmz.link/2ee2518d.html"/>
+    <id>http://blog.wmz.link/2ee2518d.html</id>
+    <published>2021-04-10T05:35:31.000Z</published>
+    <updated>2021-04-10T08:15:21.124Z</updated>
     
     
       
@@ -33,6 +33,39 @@
       
     
     
+    
+    <category term="文章" scheme="http://blog.wmz.link/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    
+    <category term="minecraft" scheme="http://blog.wmz.link/tags/minecraft/"/>
+    
+    <category term="看法" scheme="http://blog.wmz.link/tags/%E7%9C%8B%E6%B3%95/"/>
+    
+    <category term="我的世界" scheme="http://blog.wmz.link/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/"/>
+    
+    <category term="迷你世界" scheme="http://blog.wmz.link/tags/%E8%BF%B7%E4%BD%A0%E4%B8%96%E7%95%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://blog.wmz.link/4a17b156.html"/>
+    <id>http://blog.wmz.link/4a17b156.html</id>
+    <published>2021-03-05T04:57:44.061Z</published>
+    <updated>2021-04-10T05:53:44.857Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="通知" scheme="http://blog.wmz.link/categories/%E9%80%9A%E7%9F%A5/"/>
     
     
   </entry>
@@ -42,7 +75,7 @@
     <link href="http://blog.wmz.link/3e4cf0e1.html"/>
     <id>http://blog.wmz.link/3e4cf0e1.html</id>
     <published>2021-02-13T14:43:31.000Z</published>
-    <updated>2021-02-13T14:45:33.000Z</updated>
+    <updated>2021-04-10T05:53:23.006Z</updated>
     
     
       
@@ -54,6 +87,8 @@
       
     
     
+    
+    <category term="通知" scheme="http://blog.wmz.link/categories/%E9%80%9A%E7%9F%A5/"/>
     
     
     <category term="更换" scheme="http://blog.wmz.link/tags/%E6%9B%B4%E6%8D%A2/"/>
@@ -65,7 +100,7 @@
     <link href="http://blog.wmz.link/49ab854f.html"/>
     <id>http://blog.wmz.link/49ab854f.html</id>
     <published>2021-02-13T13:17:06.000Z</published>
-    <updated>2021-02-13T13:19:55.000Z</updated>
+    <updated>2021-04-10T05:46:33.219Z</updated>
     
     
       
@@ -77,6 +112,8 @@
       
     
     
+    
+    <category term="文章" scheme="http://blog.wmz.link/categories/%E6%96%87%E7%AB%A0/"/>
     
     
     <category term="安装" scheme="http://blog.wmz.link/tags/%E5%AE%89%E8%A3%85/"/>
@@ -92,7 +129,7 @@
     <link href="http://blog.wmz.link/2b244555.html"/>
     <id>http://blog.wmz.link/2b244555.html</id>
     <published>2021-02-12T06:07:30.000Z</published>
-    <updated>2021-02-12T06:08:23.000Z</updated>
+    <updated>2021-04-10T05:46:23.584Z</updated>
     
     
       
@@ -104,6 +141,8 @@
       
     
     
+    
+    <category term="文章" scheme="http://blog.wmz.link/categories/%E6%96%87%E7%AB%A0/"/>
     
     
     <category term="回顾" scheme="http://blog.wmz.link/tags/%E5%9B%9E%E9%A1%BE/"/>
@@ -117,7 +156,7 @@
     <link href="http://blog.wmz.link/a81556f1.html"/>
     <id>http://blog.wmz.link/a81556f1.html</id>
     <published>2021-02-11T13:03:39.000Z</published>
-    <updated>2021-02-11T13:05:39.000Z</updated>
+    <updated>2021-04-10T05:48:52.637Z</updated>
     
     
       
@@ -129,6 +168,8 @@
       
     
     
+    
+    <category term="文章" scheme="http://blog.wmz.link/categories/%E6%96%87%E7%AB%A0/"/>
     
     
     <category term="安装" scheme="http://blog.wmz.link/tags/%E5%AE%89%E8%A3%85/"/>
@@ -144,7 +185,7 @@
     <link href="http://blog.wmz.link/ab1d37b.html"/>
     <id>http://blog.wmz.link/ab1d37b.html</id>
     <published>2021-02-07T02:55:15.000Z</published>
-    <updated>2021-02-07T02:56:56.000Z</updated>
+    <updated>2021-04-10T05:50:46.758Z</updated>
     
     
       
@@ -156,6 +197,8 @@
       
     
     
+    
+    <category term="文章" scheme="http://blog.wmz.link/categories/%E6%96%87%E7%AB%A0/"/>
     
     
     <category term="搭建" scheme="http://blog.wmz.link/tags/%E6%90%AD%E5%BB%BA/"/>
@@ -175,7 +218,7 @@
     <link href="http://blog.wmz.link/af886b34.html"/>
     <id>http://blog.wmz.link/af886b34.html</id>
     <published>2021-02-07T01:23:32.000Z</published>
-    <updated>2021-02-07T01:31:51.000Z</updated>
+    <updated>2021-04-10T05:48:29.461Z</updated>
     
     
       
@@ -187,6 +230,8 @@
       
     
     
+    
+    <category term="文章" scheme="http://blog.wmz.link/categories/%E6%96%87%E7%AB%A0/"/>
     
     
     <category term="安装" scheme="http://blog.wmz.link/tags/%E5%AE%89%E8%A3%85/"/>
@@ -202,7 +247,7 @@
     <link href="http://blog.wmz.link/71e2d2d3.html"/>
     <id>http://blog.wmz.link/71e2d2d3.html</id>
     <published>2021-02-06T05:59:18.000Z</published>
-    <updated>2021-02-06T06:00:50.000Z</updated>
+    <updated>2021-04-10T05:47:24.877Z</updated>
     
     
       
@@ -214,6 +259,8 @@
       
     
     
+    
+    <category term="通知" scheme="http://blog.wmz.link/categories/%E9%80%9A%E7%9F%A5/"/>
     
     
     <category term="iframe" scheme="http://blog.wmz.link/tags/iframe/"/>
@@ -227,7 +274,7 @@
     <link href="http://blog.wmz.link/836982c.html"/>
     <id>http://blog.wmz.link/836982c.html</id>
     <published>2020-11-29T03:43:39.000Z</published>
-    <updated>2020-11-29T03:44:09.000Z</updated>
+    <updated>2021-04-10T05:49:17.572Z</updated>
     
     
       
@@ -239,6 +286,8 @@
       
     
     
+    
+    <category term="通知" scheme="http://blog.wmz.link/categories/%E9%80%9A%E7%9F%A5/"/>
     
     
   </entry>
@@ -248,7 +297,7 @@
     <link href="http://blog.wmz.link/c1ee638c.html"/>
     <id>http://blog.wmz.link/c1ee638c.html</id>
     <published>2020-10-31T04:45:28.000Z</published>
-    <updated>2020-10-31T04:45:56.000Z</updated>
+    <updated>2021-04-10T05:49:00.710Z</updated>
     
     
       
@@ -261,26 +310,7 @@
     
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>密码测试</title>
-    <link href="http://blog.wmz.link/d46f6783.html"/>
-    <id>http://blog.wmz.link/d46f6783.html</id>
-    <published>2020-10-17T01:10:42.000Z</published>
-    <updated>2020-10-17T01:12:14.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
-        
-      
-    
-    
+    <category term="通知" scheme="http://blog.wmz.link/categories/%E9%80%9A%E7%9F%A5/"/>
     
     
   </entry>
@@ -290,7 +320,7 @@
     <link href="http://blog.wmz.link/1f7e3876.html"/>
     <id>http://blog.wmz.link/1f7e3876.html</id>
     <published>2020-10-01T06:36:41.000Z</published>
-    <updated>2020-10-01T06:37:35.000Z</updated>
+    <updated>2021-04-10T05:50:05.886Z</updated>
     
     
       
@@ -302,6 +332,8 @@
       
     
     
+    
+    <category term="文章" scheme="http://blog.wmz.link/categories/%E6%96%87%E7%AB%A0/"/>
     
     
     <category term="github" scheme="http://blog.wmz.link/tags/github/"/>
@@ -317,7 +349,7 @@
     <link href="http://blog.wmz.link/fa1bfef3.html"/>
     <id>http://blog.wmz.link/fa1bfef3.html</id>
     <published>2020-09-30T12:38:38.000Z</published>
-    <updated>2020-09-30T12:39:34.000Z</updated>
+    <updated>2021-04-10T05:49:53.185Z</updated>
     
     
       
@@ -329,6 +361,8 @@
       
     
     
+    
+    <category term="文章" scheme="http://blog.wmz.link/categories/%E6%96%87%E7%AB%A0/"/>
     
     
     <category term="github" scheme="http://blog.wmz.link/tags/github/"/>
@@ -344,7 +378,7 @@
     <link href="http://blog.wmz.link/c3119b08.html"/>
     <id>http://blog.wmz.link/c3119b08.html</id>
     <published>2020-09-30T12:18:00.000Z</published>
-    <updated>2020-09-30T12:18:52.000Z</updated>
+    <updated>2021-04-10T05:49:59.782Z</updated>
     
     
       
@@ -356,6 +390,8 @@
       
     
     
+    
+    <category term="文章" scheme="http://blog.wmz.link/categories/%E6%96%87%E7%AB%A0/"/>
     
     
     <category term="github" scheme="http://blog.wmz.link/tags/github/"/>
@@ -371,7 +407,7 @@
     <link href="http://blog.wmz.link/748a29a4.html"/>
     <id>http://blog.wmz.link/748a29a4.html</id>
     <published>2020-09-29T22:22:07.000Z</published>
-    <updated>2020-09-29T22:24:22.000Z</updated>
+    <updated>2021-04-10T05:50:11.831Z</updated>
     
     
       
@@ -383,6 +419,8 @@
       
     
     
+    
+    <category term="文章" scheme="http://blog.wmz.link/categories/%E6%96%87%E7%AB%A0/"/>
     
     
     <category term="github" scheme="http://blog.wmz.link/tags/github/"/>
@@ -398,7 +436,7 @@
     <link href="http://blog.wmz.link/f6485125.html"/>
     <id>http://blog.wmz.link/f6485125.html</id>
     <published>2020-09-26T05:40:53.000Z</published>
-    <updated>2020-09-26T05:48:06.000Z</updated>
+    <updated>2021-04-10T05:49:32.795Z</updated>
     
     
       
@@ -410,6 +448,8 @@
       
     
     
+    
+    <category term="通知" scheme="http://blog.wmz.link/categories/%E9%80%9A%E7%9F%A5/"/>
     
     
     <category term="工具" scheme="http://blog.wmz.link/tags/%E5%B7%A5%E5%85%B7/"/>
@@ -427,7 +467,7 @@
     <link href="http://blog.wmz.link/11f1a2fc.html"/>
     <id>http://blog.wmz.link/11f1a2fc.html</id>
     <published>2020-09-11T04:36:21.000Z</published>
-    <updated>2020-09-11T04:38:53.000Z</updated>
+    <updated>2021-04-10T05:50:20.841Z</updated>
     
     
       
@@ -439,6 +479,8 @@
       
     
     
+    
+    <category term="通知" scheme="http://blog.wmz.link/categories/%E9%80%9A%E7%9F%A5/"/>
     
     
     <category term="通知" scheme="http://blog.wmz.link/tags/%E9%80%9A%E7%9F%A5/"/>
@@ -454,7 +496,7 @@
     <link href="http://blog.wmz.link/68083ed.html"/>
     <id>http://blog.wmz.link/68083ed.html</id>
     <published>2020-09-10T09:57:31.000Z</published>
-    <updated>2020-09-10T09:59:01.000Z</updated>
+    <updated>2021-04-10T05:47:08.187Z</updated>
     
     
       
@@ -466,6 +508,8 @@
       
     
     
+    
+    <category term="文章" scheme="http://blog.wmz.link/categories/%E6%96%87%E7%AB%A0/"/>
     
     
     <category term="github" scheme="http://blog.wmz.link/tags/github/"/>
@@ -481,7 +525,7 @@
     <link href="http://blog.wmz.link/8bc291e6.html"/>
     <id>http://blog.wmz.link/8bc291e6.html</id>
     <published>2020-09-09T22:13:35.000Z</published>
-    <updated>2020-09-09T22:15:05.000Z</updated>
+    <updated>2021-04-10T05:50:54.150Z</updated>
     
     
       
@@ -493,6 +537,8 @@
       
     
     
+    
+    <category term="文章" scheme="http://blog.wmz.link/categories/%E6%96%87%E7%AB%A0/"/>
     
     
     <category term="hexo" scheme="http://blog.wmz.link/tags/hexo/"/>
@@ -506,7 +552,7 @@
     <link href="http://blog.wmz.link/cd843bca.html"/>
     <id>http://blog.wmz.link/cd843bca.html</id>
     <published>2020-09-07T10:37:28.000Z</published>
-    <updated>2020-09-07T10:38:34.000Z</updated>
+    <updated>2021-04-10T05:49:24.667Z</updated>
     
     
       
@@ -518,6 +564,8 @@
       
     
     
+    
+    <category term="通知" scheme="http://blog.wmz.link/categories/%E9%80%9A%E7%9F%A5/"/>
     
     
     <category term="在线聊天" scheme="http://blog.wmz.link/tags/%E5%9C%A8%E7%BA%BF%E8%81%8A%E5%A4%A9/"/>
