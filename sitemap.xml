@@ -382,6 +382,20 @@
 
   
   <url>
+    <loc>http://blog.wmz.link/tags/%E5%9B%9E%E9%A1%BE/</loc>
+    <lastmod>2021-04-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.wmz.link/tags/2020/</loc>
+    <lastmod>2021-04-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.wmz.link/tags/%E5%AE%89%E8%A3%85/</loc>
     <lastmod>2021-04-10</lastmod>
     <changefreq>daily</changefreq>
@@ -397,20 +411,6 @@
   
   <url>
     <loc>http://blog.wmz.link/tags/linux/</loc>
-    <lastmod>2021-04-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.wmz.link/tags/%E5%9B%9E%E9%A1%BE/</loc>
-    <lastmod>2021-04-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.wmz.link/tags/2020/</loc>
     <lastmod>2021-04-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -438,20 +438,6 @@
   </url>
   
   <url>
-    <loc>http://blog.wmz.link/tags/termux/</loc>
-    <lastmod>2021-04-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.wmz.link/tags/Termux/</loc>
-    <lastmod>2021-04-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://blog.wmz.link/tags/iframe/</loc>
     <lastmod>2021-04-10</lastmod>
     <changefreq>daily</changefreq>
@@ -460,6 +446,20 @@
   
   <url>
     <loc>http://blog.wmz.link/tags/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2021-04-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.wmz.link/tags/termux/</loc>
+    <lastmod>2021-04-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.wmz.link/tags/Termux/</loc>
     <lastmod>2021-04-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -487,6 +487,20 @@
   </url>
   
   <url>
+    <loc>http://blog.wmz.link/tags/wmz-blog/</loc>
+    <lastmod>2021-04-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.wmz.link/tags/%E6%9B%B4%E6%96%B0%E4%BA%86/</loc>
+    <lastmod>2021-04-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.wmz.link/tags/bilibili/</loc>
     <lastmod>2021-04-10</lastmod>
     <changefreq>daily</changefreq>
@@ -501,14 +515,21 @@
   </url>
   
   <url>
-    <loc>http://blog.wmz.link/tags/wmz-blog/</loc>
+    <loc>http://blog.wmz.link/tags/gitee/</loc>
     <lastmod>2021-04-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://blog.wmz.link/tags/%E6%9B%B4%E6%96%B0%E4%BA%86/</loc>
+    <loc>http://blog.wmz.link/tags/gitee-page/</loc>
+    <lastmod>2021-04-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.wmz.link/tags/website/</loc>
     <lastmod>2021-04-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -550,27 +571,6 @@
   </url>
   
   <url>
-    <loc>http://blog.wmz.link/tags/gitee/</loc>
-    <lastmod>2021-04-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.wmz.link/tags/gitee-page/</loc>
-    <lastmod>2021-04-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.wmz.link/tags/website/</loc>
-    <lastmod>2021-04-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://blog.wmz.link/tags/github-page/</loc>
     <lastmod>2021-04-10</lastmod>
     <changefreq>daily</changefreq>
@@ -600,6 +600,34 @@
   
   <url>
     <loc>http://blog.wmz.link/tags/Android/</loc>
+    <lastmod>2021-04-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.wmz.link/tags/%E7%9C%8B%E6%B3%95/</loc>
+    <lastmod>2021-04-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.wmz.link/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/</loc>
+    <lastmod>2021-04-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.wmz.link/tags/%E8%BF%B7%E4%BD%A0%E4%B8%96%E7%95%8C/</loc>
+    <lastmod>2021-04-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.wmz.link/tags/fusionapp/</loc>
     <lastmod>2021-04-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -641,28 +669,7 @@
   </url>
   
   <url>
-    <loc>http://blog.wmz.link/tags/%E7%9C%8B%E6%B3%95/</loc>
-    <lastmod>2021-04-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.wmz.link/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/</loc>
-    <lastmod>2021-04-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.wmz.link/tags/%E8%BF%B7%E4%BD%A0%E4%B8%96%E7%95%8C/</loc>
-    <lastmod>2021-04-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.wmz.link/tags/fusionapp/</loc>
+    <loc>http://blog.wmz.link/tags/githubpage/</loc>
     <lastmod>2021-04-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -670,13 +677,6 @@
   
   <url>
     <loc>http://blog.wmz.link/tags/vercel/</loc>
-    <lastmod>2021-04-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.wmz.link/tags/githubpage/</loc>
     <lastmod>2021-04-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -691,13 +691,6 @@
   
   <url>
     <loc>http://blog.wmz.link/tags/win10%E5%AE%89%E8%A3%85/</loc>
-    <lastmod>2021-04-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.wmz.link/tags/minecraftJE/</loc>
     <lastmod>2021-04-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -733,6 +726,13 @@
   
   <url>
     <loc>http://blog.wmz.link/tags/picgo/</loc>
+    <lastmod>2021-04-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.wmz.link/tags/minecraftJE/</loc>
     <lastmod>2021-04-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
