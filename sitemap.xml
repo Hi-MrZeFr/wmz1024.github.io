@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blog.wmz.link/other/index.html</loc>
+    <loc>http://blog.wmz.link/update/index.html</loc>
     
     <lastmod>2021-05-16</lastmod>
     
   </url>
   
   <url>
-    <loc>http://blog.wmz.link/update/index.html</loc>
+    <loc>http://blog.wmz.link/other/index.html</loc>
     
     <lastmod>2021-05-16</lastmod>
     
@@ -445,7 +445,7 @@
 
   <url>
     <loc>http://blog.wmz.link/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -453,476 +453,476 @@
   
   <url>
     <loc>http://blog.wmz.link/tags/%E5%9B%9E%E9%A1%BE/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/2020/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/%E5%AE%89%E8%A3%85/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/debian/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/linux/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/github/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/git/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/ssh/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/html/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/iframe/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/termux/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/Termux/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/liunx/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/FA/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/app/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/wmz-blog/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/%E6%9B%B4%E6%96%B0%E4%BA%86/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/bilibili/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/download/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/Windows/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/Windows10/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/java/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/minecraft/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/minecraft-JE/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/gitee/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/gitee-page/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/website/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/github-page/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/hexo/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/gh-page/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/android/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/Android/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/%E7%9C%8B%E6%B3%95/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/%E8%BF%B7%E4%BD%A0%E4%B8%96%E7%95%8C/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/CF/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/CFW/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/Cloud-flare/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/%E5%85%8D%E7%BF%BB%E5%A2%99/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/404-%E7%BD%91%E7%AB%99/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/fusionapp/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/vercel/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/githubpage/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/%E6%90%AD%E5%BB%BA/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/%E5%9B%BE%E5%BA%8A/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/node/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/node-js/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/picgo/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/win10%E5%AE%89%E8%A3%85/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/minecraftJE/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/%E7%99%BE%E5%BA%A6%E7%BB%9F%E8%AE%A1/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/windows/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/md/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/markdown/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/md%E7%BC%96%E8%BE%91%E5%99%A8/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/%E5%9C%A8%E7%BA%BF%E8%81%8A%E5%A4%A9/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/dao-voice/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/%E6%9B%B4%E6%96%B0/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/%E6%9B%B4%E6%8D%A2/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/%E9%80%9A%E7%9F%A5/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/%E6%8A%98%E8%85%BE/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/%E9%82%AE%E7%AE%B1/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/hello-world/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/tags/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -931,21 +931,21 @@
   
   <url>
     <loc>http://blog.wmz.link/categories/%E6%96%87%E7%AB%A0/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/categories/%E9%80%9A%E7%9F%A5/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.wmz.link/categories/%E6%95%99%E7%A8%8B-html/</loc>
-    <lastmod>2021-05-16</lastmod>
+    <lastmod>2021-05-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
