@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>在hexo博客上使用aplayer-续集</title>
+    <url>/db5f4c9.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="在hexo博客上使用aplayer-续集"><a href="#在hexo博客上使用aplayer-续集" class="headerlink" title="在hexo博客上使用aplayer-续集"></a>在hexo博客上使用aplayer-续集</h1><h2 id="为什么出续集"><a href="#为什么出续集" class="headerlink" title="为什么出续集"></a>为什么出续集</h2><p>为什么呢？</p>
+<p>因为不使用butterfly主题的人可就犯了难😟<code>内心：又水了文章</code></p>
+<p>怎么办呢</p>
+<p>因此我再弄个添加html 之后再解决一些问题</p>
+<h2 id="添加aplayer（html）"><a href="#添加aplayer（html）" class="headerlink" title="添加aplayer（html）"></a>添加aplayer（html）</h2><p>head这样写</p>
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">link</span> <span class="attr">rel</span>=<span class="string">&quot;stylesheet&quot;</span> <span class="attr">href</span>=<span class="string">&quot;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&quot;</span> <span class="attr">media</span>=<span class="string">&quot;defer&quot;</span> <span class="attr">onload</span>=<span class="string">&quot;this.media=&#x27;all&#x27;&quot;</span>/&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">meting-js</span> <span class="attr">server</span>=<span class="string">&quot;netease&quot;</span> <span class="attr">type</span>=<span class="string">&quot;playlist&quot;</span> <span class="attr">id</span>=<span class="string">&quot;5291772497&quot;</span> <span class="attr">fixed</span>=<span class="string">&quot;true&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">meting-js</span>&gt;</span></span><br></pre></td></tr></table></figure>
+
+<p>body这样写</p>
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">script</span> <span class="attr">async</span> <span class="attr">src</span>=<span class="string">&quot;https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">script</span> <span class="attr">async</span> <span class="attr">src</span>=<span class="string">&quot;https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span><br></pre></td></tr></table></figure>
+
+<p>这样就可以在非hexo网站引入了</p>
+<p>关于文档</p>
+<p><a href="https://github.com/metowolf/MetingJS/blob/master/README.md">https://github.com/metowolf/MetingJS/blob/master/README.md</a></p>
+<p>自己看下 </p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://gitee.com/wmz1024/pic1/raw/master/img/2021/05/18/66715_image-20210518173050978.png" alt="image-20210518173050978"></p>
+<p>在这里改</p>
+]]></content>
+      <categories>
+        <category>文章</category>
+        <category>续集</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>aplayer</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>在hexo博客上使用aplayer</title>
     <url>/a8acdd67.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="在hexo博客上使用aplayer"><a href="#在hexo博客上使用aplayer" class="headerlink" title="在hexo博客上使用aplayer"></a>在hexo博客上使用aplayer</h1><h2 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h2><p>因为以前我配置aplayer遇到了挺多难题的</p>
