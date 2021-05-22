@@ -6,7 +6,7 @@
   <link href="http://blog.wmz.link/atom.xml" rel="self"/>
   
   <link href="http://blog.wmz.link/"/>
-  <updated>2021-05-22T11:39:37.945Z</updated>
+  <updated>2021-05-22T13:16:56.978Z</updated>
   <id>http://blog.wmz.link/</id>
   
   <author>
@@ -17,11 +17,42 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>服务器搭建动态网页</title>
+    <link href="http://blog.wmz.link/c53c84e7.html"/>
+    <id>http://blog.wmz.link/c53c84e7.html</id>
+    <published>2021-05-22T12:40:42.000Z</published>
+    <updated>2021-05-22T13:16:56.978Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="文章" scheme="http://blog.wmz.link/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    <category term="后端" scheme="http://blog.wmz.link/categories/%E6%96%87%E7%AB%A0/%E5%90%8E%E7%AB%AF/"/>
+    
+    
+    <category term="服务器" scheme="http://blog.wmz.link/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    <category term="动态网页" scheme="http://blog.wmz.link/tags/%E5%8A%A8%E6%80%81%E7%BD%91%E9%A1%B5/"/>
+    
+    <category term="php" scheme="http://blog.wmz.link/tags/php/"/>
+    
+  </entry>
+  
+  <entry>
     <title>缅怀！袁隆平逝世</title>
     <link href="http://blog.wmz.link/ee30bc12.html"/>
     <id>http://blog.wmz.link/ee30bc12.html</id>
     <published>2021-05-22T11:36:07.000Z</published>
-    <updated>2021-05-22T11:39:37.945Z</updated>
+    <updated>2021-05-22T11:40:09.702Z</updated>
     
     
       
@@ -498,35 +529,6 @@
     <id>http://blog.wmz.link/1f7e3876.html</id>
     <published>2020-10-01T06:36:41.000Z</published>
     <updated>2021-04-10T05:50:05.886Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="文章" scheme="http://blog.wmz.link/categories/%E6%96%87%E7%AB%A0/"/>
-    
-    
-    <category term="github" scheme="http://blog.wmz.link/tags/github/"/>
-    
-    <category term="git" scheme="http://blog.wmz.link/tags/git/"/>
-    
-    <category term="教程" scheme="http://blog.wmz.link/tags/%E6%95%99%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>教你如何使用github和git-分支branch</title>
-    <link href="http://blog.wmz.link/fa1bfef3.html"/>
-    <id>http://blog.wmz.link/fa1bfef3.html</id>
-    <published>2020-09-30T12:38:38.000Z</published>
-    <updated>2021-04-10T05:49:53.185Z</updated>
     
     
       
