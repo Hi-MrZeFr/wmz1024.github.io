@@ -6,7 +6,7 @@
   <link href="http://blog.wmz.link/atom.xml" rel="self"/>
   
   <link href="http://blog.wmz.link/"/>
-  <updated>2021-05-18T11:55:14.936Z</updated>
+  <updated>2021-05-22T11:39:37.945Z</updated>
   <id>http://blog.wmz.link/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>缅怀！袁隆平逝世</title>
+    <link href="http://blog.wmz.link/ee30bc12.html"/>
+    <id>http://blog.wmz.link/ee30bc12.html</id>
+    <published>2021-05-22T11:36:07.000Z</published>
+    <updated>2021-05-22T11:39:37.945Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="文章" scheme="http://blog.wmz.link/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    
+    <category term="袁隆平" scheme="http://blog.wmz.link/tags/%E8%A2%81%E9%9A%86%E5%B9%B3/"/>
+    
+  </entry>
   
   <entry>
     <title>在hexo博客上使用aplayer-续集</title>
@@ -502,35 +527,6 @@
     <id>http://blog.wmz.link/fa1bfef3.html</id>
     <published>2020-09-30T12:38:38.000Z</published>
     <updated>2021-04-10T05:49:53.185Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="文章" scheme="http://blog.wmz.link/categories/%E6%96%87%E7%AB%A0/"/>
-    
-    
-    <category term="github" scheme="http://blog.wmz.link/tags/github/"/>
-    
-    <category term="git" scheme="http://blog.wmz.link/tags/git/"/>
-    
-    <category term="教程" scheme="http://blog.wmz.link/tags/%E6%95%99%E7%A8%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>教你如何使用github和git-克隆仓库</title>
-    <link href="http://blog.wmz.link/c3119b08.html"/>
-    <id>http://blog.wmz.link/c3119b08.html</id>
-    <published>2020-09-30T12:18:00.000Z</published>
-    <updated>2021-04-10T05:49:59.782Z</updated>
     
     
       
