@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>wlog</title>
-  <icon>http://blog.wmz.link/icon.png</icon>
+  <icon>http://blog.wmza.cn/icon.png</icon>
   <subtitle>你作业写完了吗</subtitle>
-  <link href="http://blog.wmz.link/atom.xml" rel="self"/>
+  <link href="http://blog.wmza.cn/atom.xml" rel="self"/>
   
-  <link href="http://blog.wmz.link/"/>
+  <link href="http://blog.wmza.cn/"/>
   <updated>2021-05-22T13:17:14.918Z</updated>
-  <id>http://blog.wmz.link/</id>
+  <id>http://blog.wmza.cn/</id>
   
   <author>
     <name>Wmz1024</name>
-    <email>i@wmz.link</email>
+    <email>i@wmza.cn</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
     <title>服务器搭建动态网页</title>
-    <link href="http://blog.wmz.link/c53c84e7.html"/>
-    <id>http://blog.wmz.link/c53c84e7.html</id>
+    <link href="http://blog.wmza.cn/c53c84e7.html"/>
+    <id>http://blog.wmza.cn/c53c84e7.html</id>
     <published>2021-05-22T12:40:42.000Z</published>
     <updated>2021-05-22T13:17:14.918Z</updated>
     
@@ -34,23 +34,23 @@
     
     
     
-    <category term="文章" scheme="http://blog.wmz.link/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="文章" scheme="http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/"/>
     
-    <category term="后端" scheme="http://blog.wmz.link/categories/%E6%96%87%E7%AB%A0/%E5%90%8E%E7%AB%AF/"/>
+    <category term="后端" scheme="http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/%E5%90%8E%E7%AB%AF/"/>
     
     
-    <category term="服务器" scheme="http://blog.wmz.link/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    <category term="服务器" scheme="http://blog.wmza.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
     
-    <category term="动态网页" scheme="http://blog.wmz.link/tags/%E5%8A%A8%E6%80%81%E7%BD%91%E9%A1%B5/"/>
+    <category term="动态网页" scheme="http://blog.wmza.cn/tags/%E5%8A%A8%E6%80%81%E7%BD%91%E9%A1%B5/"/>
     
-    <category term="php" scheme="http://blog.wmz.link/tags/php/"/>
+    <category term="php" scheme="http://blog.wmza.cn/tags/php/"/>
     
   </entry>
   
   <entry>
     <title>缅怀！袁隆平逝世</title>
-    <link href="http://blog.wmz.link/ee30bc12.html"/>
-    <id>http://blog.wmz.link/ee30bc12.html</id>
+    <link href="http://blog.wmza.cn/ee30bc12.html"/>
+    <id>http://blog.wmza.cn/ee30bc12.html</id>
     <published>2021-05-22T11:36:07.000Z</published>
     <updated>2021-05-22T11:40:09.702Z</updated>
     
@@ -65,17 +65,17 @@
     
     
     
-    <category term="文章" scheme="http://blog.wmz.link/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="文章" scheme="http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/"/>
     
     
-    <category term="袁隆平" scheme="http://blog.wmz.link/tags/%E8%A2%81%E9%9A%86%E5%B9%B3/"/>
+    <category term="袁隆平" scheme="http://blog.wmza.cn/tags/%E8%A2%81%E9%9A%86%E5%B9%B3/"/>
     
   </entry>
   
   <entry>
     <title>在hexo博客上使用aplayer-续集</title>
-    <link href="http://blog.wmz.link/db5f4c9.html"/>
-    <id>http://blog.wmz.link/db5f4c9.html</id>
+    <link href="http://blog.wmza.cn/db5f4c9.html"/>
+    <id>http://blog.wmza.cn/db5f4c9.html</id>
     <published>2021-05-18T08:57:38.000Z</published>
     <updated>2021-05-18T11:55:14.936Z</updated>
     
@@ -90,21 +90,21 @@
     
     
     
-    <category term="文章" scheme="http://blog.wmz.link/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="文章" scheme="http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/"/>
     
-    <category term="续集" scheme="http://blog.wmz.link/categories/%E6%96%87%E7%AB%A0/%E7%BB%AD%E9%9B%86/"/>
+    <category term="续集" scheme="http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/%E7%BB%AD%E9%9B%86/"/>
     
     
-    <category term="hexo" scheme="http://blog.wmz.link/tags/hexo/"/>
+    <category term="hexo" scheme="http://blog.wmza.cn/tags/hexo/"/>
     
-    <category term="aplayer" scheme="http://blog.wmz.link/tags/aplayer/"/>
+    <category term="aplayer" scheme="http://blog.wmza.cn/tags/aplayer/"/>
     
   </entry>
   
   <entry>
     <title>在hexo博客上使用aplayer</title>
-    <link href="http://blog.wmz.link/a8acdd67.html"/>
-    <id>http://blog.wmz.link/a8acdd67.html</id>
+    <link href="http://blog.wmza.cn/a8acdd67.html"/>
+    <id>http://blog.wmza.cn/a8acdd67.html</id>
     <published>2021-05-17T11:35:05.000Z</published>
     <updated>2021-05-17T12:11:38.530Z</updated>
     
@@ -119,19 +119,19 @@
     
     
     
-    <category term="文章" scheme="http://blog.wmz.link/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="文章" scheme="http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/"/>
     
     
-    <category term="hexo" scheme="http://blog.wmz.link/tags/hexo/"/>
+    <category term="hexo" scheme="http://blog.wmza.cn/tags/hexo/"/>
     
-    <category term="aplayer" scheme="http://blog.wmz.link/tags/aplayer/"/>
+    <category term="aplayer" scheme="http://blog.wmza.cn/tags/aplayer/"/>
     
   </entry>
   
   <entry>
     <title>html-教程 (3)</title>
-    <link href="http://blog.wmz.link/dfd2f59a.html"/>
-    <id>http://blog.wmz.link/dfd2f59a.html</id>
+    <link href="http://blog.wmza.cn/dfd2f59a.html"/>
+    <id>http://blog.wmza.cn/dfd2f59a.html</id>
     <published>2021-05-03T00:03:27.000Z</published>
     <updated>2021-05-03T00:04:20.807Z</updated>
     
@@ -146,19 +146,19 @@
     
     
     
-    <category term="教程-html" scheme="http://blog.wmz.link/categories/%E6%95%99%E7%A8%8B-html/"/>
+    <category term="教程-html" scheme="http://blog.wmza.cn/categories/%E6%95%99%E7%A8%8B-html/"/>
     
     
-    <category term="教程" scheme="http://blog.wmz.link/tags/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="http://blog.wmza.cn/tags/%E6%95%99%E7%A8%8B/"/>
     
-    <category term="html" scheme="http://blog.wmz.link/tags/html/"/>
+    <category term="html" scheme="http://blog.wmza.cn/tags/html/"/>
     
   </entry>
   
   <entry>
     <title>html-教程 (2)</title>
-    <link href="http://blog.wmz.link/c6c9c4db.html"/>
-    <id>http://blog.wmz.link/c6c9c4db.html</id>
+    <link href="http://blog.wmza.cn/c6c9c4db.html"/>
+    <id>http://blog.wmza.cn/c6c9c4db.html</id>
     <published>2021-05-03T00:01:34.000Z</published>
     <updated>2021-05-03T00:04:20.810Z</updated>
     
@@ -173,19 +173,19 @@
     
     
     
-    <category term="教程-html" scheme="http://blog.wmz.link/categories/%E6%95%99%E7%A8%8B-html/"/>
+    <category term="教程-html" scheme="http://blog.wmza.cn/categories/%E6%95%99%E7%A8%8B-html/"/>
     
     
-    <category term="教程" scheme="http://blog.wmz.link/tags/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="http://blog.wmza.cn/tags/%E6%95%99%E7%A8%8B/"/>
     
-    <category term="html" scheme="http://blog.wmz.link/tags/html/"/>
+    <category term="html" scheme="http://blog.wmza.cn/tags/html/"/>
     
   </entry>
   
   <entry>
     <title>html-教程 (1)</title>
-    <link href="http://blog.wmz.link/ede49718.html"/>
-    <id>http://blog.wmz.link/ede49718.html</id>
+    <link href="http://blog.wmza.cn/ede49718.html"/>
+    <id>http://blog.wmza.cn/ede49718.html</id>
     <published>2021-05-02T23:56:29.000Z</published>
     <updated>2021-05-03T00:04:20.809Z</updated>
     
@@ -200,19 +200,19 @@
     
     
     
-    <category term="教程-html" scheme="http://blog.wmz.link/categories/%E6%95%99%E7%A8%8B-html/"/>
+    <category term="教程-html" scheme="http://blog.wmza.cn/categories/%E6%95%99%E7%A8%8B-html/"/>
     
     
-    <category term="教程" scheme="http://blog.wmz.link/tags/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="http://blog.wmza.cn/tags/%E6%95%99%E7%A8%8B/"/>
     
-    <category term="html" scheme="http://blog.wmz.link/tags/html/"/>
+    <category term="html" scheme="http://blog.wmza.cn/tags/html/"/>
     
   </entry>
   
   <entry>
     <title>密码测试</title>
-    <link href="http://blog.wmz.link/d46f6783.html"/>
-    <id>http://blog.wmz.link/d46f6783.html</id>
+    <link href="http://blog.wmza.cn/d46f6783.html"/>
+    <id>http://blog.wmza.cn/d46f6783.html</id>
     <published>2021-04-10T10:13:04.000Z</published>
     <updated>2021-04-10T10:14:04.417Z</updated>
     
@@ -226,8 +226,8 @@
   
   <entry>
     <title>关于我对迷你世界和我的世界的看法</title>
-    <link href="http://blog.wmz.link/2ee2518d.html"/>
-    <id>http://blog.wmz.link/2ee2518d.html</id>
+    <link href="http://blog.wmza.cn/2ee2518d.html"/>
+    <id>http://blog.wmza.cn/2ee2518d.html</id>
     <published>2021-04-10T05:35:31.000Z</published>
     <updated>2021-04-10T08:15:21.124Z</updated>
     
@@ -242,23 +242,23 @@
     
     
     
-    <category term="文章" scheme="http://blog.wmz.link/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="文章" scheme="http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/"/>
     
     
-    <category term="minecraft" scheme="http://blog.wmz.link/tags/minecraft/"/>
+    <category term="minecraft" scheme="http://blog.wmza.cn/tags/minecraft/"/>
     
-    <category term="看法" scheme="http://blog.wmz.link/tags/%E7%9C%8B%E6%B3%95/"/>
+    <category term="看法" scheme="http://blog.wmza.cn/tags/%E7%9C%8B%E6%B3%95/"/>
     
-    <category term="我的世界" scheme="http://blog.wmz.link/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/"/>
+    <category term="我的世界" scheme="http://blog.wmza.cn/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/"/>
     
-    <category term="迷你世界" scheme="http://blog.wmz.link/tags/%E8%BF%B7%E4%BD%A0%E4%B8%96%E7%95%8C/"/>
+    <category term="迷你世界" scheme="http://blog.wmza.cn/tags/%E8%BF%B7%E4%BD%A0%E4%B8%96%E7%95%8C/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://blog.wmz.link/4a17b156.html"/>
-    <id>http://blog.wmz.link/4a17b156.html</id>
+    <link href="http://blog.wmza.cn/4a17b156.html"/>
+    <id>http://blog.wmza.cn/4a17b156.html</id>
     <published>2021-03-05T04:57:44.061Z</published>
     <updated>2021-04-10T05:53:44.857Z</updated>
     
@@ -273,15 +273,15 @@
     
     
     
-    <category term="通知" scheme="http://blog.wmz.link/categories/%E9%80%9A%E7%9F%A5/"/>
+    <category term="通知" scheme="http://blog.wmza.cn/categories/%E9%80%9A%E7%9F%A5/"/>
     
     
   </entry>
   
   <entry>
     <title>最近换了个评论系统 比之前的gitalk更好用</title>
-    <link href="http://blog.wmz.link/3e4cf0e1.html"/>
-    <id>http://blog.wmz.link/3e4cf0e1.html</id>
+    <link href="http://blog.wmza.cn/3e4cf0e1.html"/>
+    <id>http://blog.wmza.cn/3e4cf0e1.html</id>
     <published>2021-02-13T14:43:31.000Z</published>
     <updated>2021-04-10T05:53:23.006Z</updated>
     
@@ -296,17 +296,17 @@
     
     
     
-    <category term="通知" scheme="http://blog.wmz.link/categories/%E9%80%9A%E7%9F%A5/"/>
+    <category term="通知" scheme="http://blog.wmza.cn/categories/%E9%80%9A%E7%9F%A5/"/>
     
     
-    <category term="更换" scheme="http://blog.wmz.link/tags/%E6%9B%B4%E6%8D%A2/"/>
+    <category term="更换" scheme="http://blog.wmza.cn/tags/%E6%9B%B4%E6%8D%A2/"/>
     
   </entry>
   
   <entry>
     <title>debian安装 博客突然坏了 补档</title>
-    <link href="http://blog.wmz.link/49ab854f.html"/>
-    <id>http://blog.wmz.link/49ab854f.html</id>
+    <link href="http://blog.wmza.cn/49ab854f.html"/>
+    <id>http://blog.wmza.cn/49ab854f.html</id>
     <published>2021-02-13T13:17:06.000Z</published>
     <updated>2021-04-10T05:46:33.219Z</updated>
     
@@ -321,21 +321,21 @@
     
     
     
-    <category term="文章" scheme="http://blog.wmz.link/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="文章" scheme="http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/"/>
     
     
-    <category term="安装" scheme="http://blog.wmz.link/tags/%E5%AE%89%E8%A3%85/"/>
+    <category term="安装" scheme="http://blog.wmza.cn/tags/%E5%AE%89%E8%A3%85/"/>
     
-    <category term="debian" scheme="http://blog.wmz.link/tags/debian/"/>
+    <category term="debian" scheme="http://blog.wmza.cn/tags/debian/"/>
     
-    <category term="linux" scheme="http://blog.wmz.link/tags/linux/"/>
+    <category term="linux" scheme="http://blog.wmza.cn/tags/linux/"/>
     
   </entry>
   
   <entry>
     <title>2020回顾 上</title>
-    <link href="http://blog.wmz.link/2b244555.html"/>
-    <id>http://blog.wmz.link/2b244555.html</id>
+    <link href="http://blog.wmza.cn/2b244555.html"/>
+    <id>http://blog.wmza.cn/2b244555.html</id>
     <published>2021-02-12T06:07:30.000Z</published>
     <updated>2021-04-10T05:46:23.584Z</updated>
     
@@ -350,19 +350,19 @@
     
     
     
-    <category term="文章" scheme="http://blog.wmz.link/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="文章" scheme="http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/"/>
     
     
-    <category term="回顾" scheme="http://blog.wmz.link/tags/%E5%9B%9E%E9%A1%BE/"/>
+    <category term="回顾" scheme="http://blog.wmza.cn/tags/%E5%9B%9E%E9%A1%BE/"/>
     
-    <category term="2020" scheme="http://blog.wmz.link/tags/2020/"/>
+    <category term="2020" scheme="http://blog.wmza.cn/tags/2020/"/>
     
   </entry>
   
   <entry>
     <title>安装一些基本的系统 1</title>
-    <link href="http://blog.wmz.link/a81556f1.html"/>
-    <id>http://blog.wmz.link/a81556f1.html</id>
+    <link href="http://blog.wmza.cn/a81556f1.html"/>
+    <id>http://blog.wmza.cn/a81556f1.html</id>
     <published>2021-02-11T13:03:39.000Z</published>
     <updated>2021-04-10T05:48:52.637Z</updated>
     
@@ -377,21 +377,21 @@
     
     
     
-    <category term="文章" scheme="http://blog.wmz.link/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="文章" scheme="http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/"/>
     
     
-    <category term="安装" scheme="http://blog.wmz.link/tags/%E5%AE%89%E8%A3%85/"/>
+    <category term="安装" scheme="http://blog.wmza.cn/tags/%E5%AE%89%E8%A3%85/"/>
     
-    <category term="linux" scheme="http://blog.wmz.link/tags/linux/"/>
+    <category term="linux" scheme="http://blog.wmza.cn/tags/linux/"/>
     
-    <category term="windows" scheme="http://blog.wmz.link/tags/windows/"/>
+    <category term="windows" scheme="http://blog.wmza.cn/tags/windows/"/>
     
   </entry>
   
   <entry>
     <title>如何搭建自己的图床 gitee</title>
-    <link href="http://blog.wmz.link/ab1d37b.html"/>
-    <id>http://blog.wmz.link/ab1d37b.html</id>
+    <link href="http://blog.wmza.cn/ab1d37b.html"/>
+    <id>http://blog.wmza.cn/ab1d37b.html</id>
     <published>2021-02-07T02:55:15.000Z</published>
     <updated>2021-04-10T05:50:46.758Z</updated>
     
@@ -406,25 +406,25 @@
     
     
     
-    <category term="文章" scheme="http://blog.wmz.link/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="文章" scheme="http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/"/>
     
     
-    <category term="搭建" scheme="http://blog.wmz.link/tags/%E6%90%AD%E5%BB%BA/"/>
+    <category term="搭建" scheme="http://blog.wmza.cn/tags/%E6%90%AD%E5%BB%BA/"/>
     
-    <category term="图床" scheme="http://blog.wmz.link/tags/%E5%9B%BE%E5%BA%8A/"/>
+    <category term="图床" scheme="http://blog.wmza.cn/tags/%E5%9B%BE%E5%BA%8A/"/>
     
-    <category term="node" scheme="http://blog.wmz.link/tags/node/"/>
+    <category term="node" scheme="http://blog.wmza.cn/tags/node/"/>
     
-    <category term="node.js" scheme="http://blog.wmz.link/tags/node-js/"/>
+    <category term="node.js" scheme="http://blog.wmza.cn/tags/node-js/"/>
     
-    <category term="picgo" scheme="http://blog.wmz.link/tags/picgo/"/>
+    <category term="picgo" scheme="http://blog.wmza.cn/tags/picgo/"/>
     
   </entry>
   
   <entry>
     <title>安装debian</title>
-    <link href="http://blog.wmz.link/af886b34.html"/>
-    <id>http://blog.wmz.link/af886b34.html</id>
+    <link href="http://blog.wmza.cn/af886b34.html"/>
+    <id>http://blog.wmza.cn/af886b34.html</id>
     <published>2021-02-07T01:23:32.000Z</published>
     <updated>2021-04-10T05:48:29.461Z</updated>
     
@@ -439,21 +439,21 @@
     
     
     
-    <category term="文章" scheme="http://blog.wmz.link/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="文章" scheme="http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/"/>
     
     
-    <category term="安装" scheme="http://blog.wmz.link/tags/%E5%AE%89%E8%A3%85/"/>
+    <category term="安装" scheme="http://blog.wmza.cn/tags/%E5%AE%89%E8%A3%85/"/>
     
-    <category term="debian" scheme="http://blog.wmz.link/tags/debian/"/>
+    <category term="debian" scheme="http://blog.wmza.cn/tags/debian/"/>
     
-    <category term="linux" scheme="http://blog.wmz.link/tags/linux/"/>
+    <category term="linux" scheme="http://blog.wmza.cn/tags/linux/"/>
     
   </entry>
   
   <entry>
     <title>iframe测试</title>
-    <link href="http://blog.wmz.link/71e2d2d3.html"/>
-    <id>http://blog.wmz.link/71e2d2d3.html</id>
+    <link href="http://blog.wmza.cn/71e2d2d3.html"/>
+    <id>http://blog.wmza.cn/71e2d2d3.html</id>
     <published>2021-02-06T05:59:18.000Z</published>
     <updated>2021-04-10T05:47:24.877Z</updated>
     
@@ -468,19 +468,19 @@
     
     
     
-    <category term="通知" scheme="http://blog.wmz.link/categories/%E9%80%9A%E7%9F%A5/"/>
+    <category term="通知" scheme="http://blog.wmza.cn/categories/%E9%80%9A%E7%9F%A5/"/>
     
     
-    <category term="iframe" scheme="http://blog.wmz.link/tags/iframe/"/>
+    <category term="iframe" scheme="http://blog.wmza.cn/tags/iframe/"/>
     
-    <category term="测试" scheme="http://blog.wmz.link/tags/%E6%B5%8B%E8%AF%95/"/>
+    <category term="测试" scheme="http://blog.wmza.cn/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
   <entry>
     <title>电视源更新 在顶栏-工具-电视源 &lt;vlc也包括&gt;</title>
-    <link href="http://blog.wmz.link/836982c.html"/>
-    <id>http://blog.wmz.link/836982c.html</id>
+    <link href="http://blog.wmza.cn/836982c.html"/>
+    <id>http://blog.wmza.cn/836982c.html</id>
     <published>2020-11-29T03:43:39.000Z</published>
     <updated>2021-04-10T05:49:17.572Z</updated>
     
@@ -495,15 +495,15 @@
     
     
     
-    <category term="通知" scheme="http://blog.wmz.link/categories/%E9%80%9A%E7%9F%A5/"/>
+    <category term="通知" scheme="http://blog.wmza.cn/categories/%E9%80%9A%E7%9F%A5/"/>
     
     
   </entry>
   
   <entry>
     <title>不给糖就捣蛋-好久没更新了啊（￢㉨￢）</title>
-    <link href="http://blog.wmz.link/c1ee638c.html"/>
-    <id>http://blog.wmz.link/c1ee638c.html</id>
+    <link href="http://blog.wmza.cn/c1ee638c.html"/>
+    <id>http://blog.wmza.cn/c1ee638c.html</id>
     <published>2020-10-31T04:45:28.000Z</published>
     <updated>2021-04-10T05:49:00.710Z</updated>
     
@@ -518,15 +518,15 @@
     
     
     
-    <category term="通知" scheme="http://blog.wmz.link/categories/%E9%80%9A%E7%9F%A5/"/>
+    <category term="通知" scheme="http://blog.wmza.cn/categories/%E9%80%9A%E7%9F%A5/"/>
     
     
   </entry>
   
   <entry>
     <title>教你如何使用git和github-标签tag</title>
-    <link href="http://blog.wmz.link/1f7e3876.html"/>
-    <id>http://blog.wmz.link/1f7e3876.html</id>
+    <link href="http://blog.wmza.cn/1f7e3876.html"/>
+    <id>http://blog.wmza.cn/1f7e3876.html</id>
     <published>2020-10-01T06:36:41.000Z</published>
     <updated>2021-04-10T05:50:05.886Z</updated>
     
@@ -541,14 +541,14 @@
     
     
     
-    <category term="文章" scheme="http://blog.wmz.link/categories/%E6%96%87%E7%AB%A0/"/>
+    <category term="文章" scheme="http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/"/>
     
     
-    <category term="github" scheme="http://blog.wmz.link/tags/github/"/>
+    <category term="github" scheme="http://blog.wmza.cn/tags/github/"/>
     
-    <category term="git" scheme="http://blog.wmz.link/tags/git/"/>
+    <category term="git" scheme="http://blog.wmza.cn/tags/git/"/>
     
-    <category term="教程" scheme="http://blog.wmz.link/tags/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="http://blog.wmza.cn/tags/%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
