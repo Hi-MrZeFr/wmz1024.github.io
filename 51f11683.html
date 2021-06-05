@@ -395,41 +395,18 @@ if ('Waline' === 'Gitalk' || !true) {
 POWERMODE.shake = true;
 POWERMODE.mobile = true;
 document.body.addEventListener('input', POWERMODE);
-</script><script id="click-show-text" src="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/dist/click-show-text.min.js" data-mobile="true" data-text="富强,民主,文明,和谐,自由,平等,公正,法治,爱国,敬业,诚信,友善" data-fontsize="15px" data-random="false" async="async"></script><script>(function(i,s,o,g,r,a,m){i["DaoVoiceObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;a.charset="utf-8";m.parentNode.insertBefore(a,m)})(window,document,"script",('https:' == document.location.protocol ? 'https:' : 'http:') + "//widget.daovoice.io/widget/f667feb0.js","daovoice")
-</script><script>var isChatBtn = false
-daovoice('init', {
-  app_id: 'f667feb0',},{
-  launcher: { 
-     disableLauncherIcon: isChatBtn // 悬浮 ICON 是否显示
-  },
-});
-daovoice('update');
+</script><script id="click-show-text" src="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1/dist/click-show-text.min.js" data-mobile="true" data-text="富强,民主,文明,和谐,自由,平等,公正,法治,爱国,敬业,诚信,友善" data-fontsize="15px" data-random="false" async="async"></script><script src="//code.tidio.co/5hfaapuxozl6dwastl6t5tbyieal74hr.js" async="async"></script><script>function chatBtnHide () {
+  if (window.tidioChatApi) {
+    //- window.tidioChatApi.hide();
+    document.getElementById('tidio-chat').style.display= 'none'
+  }
+}
 
-if (isChatBtn) {
-  var chatBtnFn = () => {
-    var chatBtn = document.getElementById("chat_btn")
-    chatBtn.addEventListener("click", function(){
-      daovoice('show')
-    });
-  }
-  chatBtnFn()
-} else {
-  if (true) {
-    function chatBtnHide () {
-      daovoice('update', {},{
-        launcher: { 
-        disableLauncherIcon: true // 悬浮 ICON 是否显示
-        },
-      });
-    }
-    function chatBtnShow () {
-      daovoice('update', {},{
-        launcher: { 
-        disableLauncherIcon: false // 悬浮 ICON 是否显示
-        },
-      });
-    }
-  }
+function chatBtnShow () {
+  if (window.tidioChatApi) {
+    //- window.tidioChatApi.show();
+    document.getElementById('tidio-chat').style.display= 'block'
+  } 
 }</script><script src="https://cdn.jsdelivr.net/npm/pjax/pjax.min.js"></script><script>let pjaxSelectors = [
   'title',
   '#config-diff',
@@ -513,7 +490,7 @@ document.addEventListener('pjax:error', (e) => {
   if (e.request.status === 404) {
     pjax.loadUrl('/404.html')
   }
-})</script><script async data-pjax src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script><script>var gitcalendar = new Vue({
+})</script><div id="SAO-back"><div id="SAO-menu"><div id="SAO-menu-content"><div class="utils-list"><div class="utils-list-item"><div class="user-panel" style="top:null;"><div class="user-panel-name">Friends</div><div class="user-panel-img"><img src= "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-lazy-src="https://cdn.jsdelivr.net/gh/Akilarlxh/Akilarlxh.github.io@bf_3.5.1_6/assets/info.png"/></div><div class="user-panel-properties">这些是我的朋友</div></div><i class="fas fa-link" onclick="clickAudio();setTimeout(function(){SAOclose();linkStart('/link/')},500);"></i></div><div class="utils-list-item"><div class="user-panel" style="top:null;"><div class="user-panel-name">Menu</div><div class="user-panel-img"><img src= "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-lazy-src="https://cdn.jsdelivr.net/gh/Akilarlxh/Akilarlxh.github.io@bf_3.5.1_6/assets/info.png"/></div><div class="user-panel-properties">The menu of my blog</div></div><i class="fa fa-tasks" onclick="panelAudio();UtilsClick()"></i><div class="menu-list" style="top:-163px;"><div class="menu-list-item"><i class="fa fa-home" onclick="clickAudio();setTimeout(function(){SAOclose();linkStart('https://blog.wmza.cn')},500);">Home</i></div><div class="menu-list-item"><i class="fa fa-folder-open" onclick="panelAudio();MenusClick()">Document</i><div class="menu-child" style="top:-40px;"><div class="menu-list-child"><i class="fa fa-file-invoice" onclick="clickAudio();setTimeout(function(){SAOclose();linkStart('/a8acdd67.html')},500);">aplayer安装教程</i></div></div></div><div class="menu-list-item"><i class="fa fa-blog" onclick="clickAudio();setTimeout(function(){SAOclose();linkStart('/')},500);">Blog</i></div><div class="menu-list-item"><i class="fa fa-archive" onclick="clickAudio();setTimeout(function(){SAOclose();linkStart('/archives/')},500);">Archives</i></div><div class="menu-list-item"><i class="fa fa-folder-open" onclick="clickAudio();setTimeout(function(){SAOclose();linkStart('/categories/')},500);">Categoties</i></div><div class="menu-list-item"><i class="fa fa-tags" onclick="clickAudio();setTimeout(function(){SAOclose();linkStart('/tags/')},500);">Tags</i></div></div></div><div class="utils-list-item"><div class="user-panel" style="top:null;"><div class="user-panel-name">Options</div><div class="user-panel-img"><img src= "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-lazy-src="https://cdn.jsdelivr.net/gh/Akilarlxh/Akilarlxh.github.io@bf_3.5.1_6/assets/info.png"/></div><div class="user-panel-properties">Some userful scripts</div></div><i class="fa fa-tools" onclick="panelAudio();UtilsClick()"></i><div class="menu-list" style="top:-103px;"><div class="menu-list-item"><i class="fa fa-indent" onclick="clickAudio();setTimeout(function(){SAOclose();Mirror()},500);">Mirror</i></div><div class="menu-list-item"><i class="fa fa-random" onclick="clickAudio();setTimeout(function(){SAOclose();linkStart('/random.html')},500);">Random</i></div><div class="menu-list-item"><i class="fa fa-search" onclick="clickAudio();setTimeout(function(){SAOclose();openSearch()},500);">Search</i></div></div></div><div class="utils-list-item"><div class="user-panel"><div class="user-panel-name">Instructions</div><div class="user-panel-img"><img src= "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-lazy-src="https://akilar.top/img/siteicon/favicon.png"/></div><div class="user-panel-properties"><h4>欢迎使用SAO_Utils_Web 2.0</h4><p>点按选项可以持续显示下级菜单。您可以通过按住<kbd>ctrl</kbd>+<kbd>右键</kbd>来恢复使用原生右键菜单，更多内容可点击右侧Option按钮访问教程或Help按钮加入糖果屋QQ群。</p><center>©Akilarの糖果屋</center></div></div><i class="fa fa-cog" onclick="panelAudio();UtilsClick()"></i><div class="menu-list" style="top:-103px;"><div class="menu-list-item"><i class="fa fa-tools" onclick="clickAudio();setTimeout(function(){SAOclose();linkStart('https://akilar.top/posts/fd243d7/')},500);">Option</i></div><div class="menu-list-item"><i class="fa fa-question-circle" onclick="clickAudio();setTimeout(function(){SAOclose();linkStart('https://jq.qq.com/?_wv=1027&amp;k=a08BZRzs')},500);">Help</i></div><div class="menu-list-item"><i class="fa fa-sign-out-alt" onclick="alertAudio();openLogout()">Logout</i></div></div></div><div class="utils-list-item"><i class="fa fa-power-off" onclick="clickAudio();SAOclose()"></i></div></div></div></div></div><div id="SAO-logout"><div class="logout-title">Alert</div><div class="logout-alert">是否确认退出?</div><div class="logout-button"><span class="logout-confirm"><button class="far fa-circle" type="button" name="confirm" onclick="clickAudio();confirmLogout()"></button></span><span class="logout-cancel"><button class="fa fa-times" type="button" name="cancel" onclick="panelAudio();cancelLogout()"></button></span></div></div><audio id="SAOlauncher" src="http://u3.wmzwebsiteusercontent.icu/Voice1.mp3"></audio><audio id="SAOClick" src="http://u3.wmzwebsiteusercontent.icu/Voice2.mp3"></audio><audio id="SAOPanel" src="https://cdn.jsdelivr.net/gh/Akilarlxh/Akilarlxh.github.io@bf_3.5.1_6/assets/Panel.wav"></audio><audio id="SAOAlert" src="https://cdn.jsdelivr.net/gh/Akilarlxh/Akilarlxh.github.io@bf_3.5.1_6/assets/Alert.wav"></audio><script async="async" src="/js/SAO_Menu.js"></script><script async data-pjax src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script><script>var gitcalendar = new Vue({
   el: '#gitcalendar',
   data: {
     simplemode: false,
