@@ -6,7 +6,7 @@
   <link href="http://blog.wmza.cn/atom.xml" rel="self"/>
   
   <link href="http://blog.wmza.cn/"/>
-  <updated>2021-06-08T07:38:08.763Z</updated>
+  <updated>2021-07-11T08:04:16.035Z</updated>
   <id>http://blog.wmza.cn/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo博客源文件不使用github action托管（vercel)</title>
+    <link href="http://blog.wmza.cn/f053c80.html"/>
+    <id>http://blog.wmza.cn/f053c80.html</id>
+    <published>2021-07-11T06:24:45.000Z</published>
+    <updated>2021-07-11T08:04:16.035Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="文章" scheme="http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    
+    <category term="github" scheme="http://blog.wmza.cn/tags/github/"/>
+    
+    <category term="hexo" scheme="http://blog.wmza.cn/tags/hexo/"/>
+    
+    <category term="博客" scheme="http://blog.wmza.cn/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="github action" scheme="http://blog.wmza.cn/tags/github-action/"/>
+    
+  </entry>
   
   <entry>
     <title>今天把undertale打完了😄</title>
@@ -528,29 +559,6 @@
     <category term="iframe" scheme="http://blog.wmza.cn/tags/iframe/"/>
     
     <category term="测试" scheme="http://blog.wmza.cn/tags/%E6%B5%8B%E8%AF%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>电视源更新 在顶栏-工具-电视源 &lt;vlc也包括&gt;</title>
-    <link href="http://blog.wmza.cn/836982c.html"/>
-    <id>http://blog.wmza.cn/836982c.html</id>
-    <published>2020-11-29T03:43:39.000Z</published>
-    <updated>2021-04-10T05:49:17.572Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="通知" scheme="http://blog.wmza.cn/categories/%E9%80%9A%E7%9F%A5/"/>
-    
     
   </entry>
   

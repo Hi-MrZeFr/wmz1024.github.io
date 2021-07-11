@@ -1,6 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>hexo博客源文件不使用github action托管（vercel)</title>
+    <url>/f053c80.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="hexo博客源文件不使用github-action托管（vercel"><a href="#hexo博客源文件不使用github-action托管（vercel" class="headerlink" title="hexo博客源文件不使用github action托管（vercel)"></a>hexo博客源文件不使用github action托管（vercel)</h1><p>有些人都是用github action自動弄hexo博客 但是也有另一種方式</p>
+<p>（主要是github有時难访问 直接ssh上传还是比较方便的 这也是我发现的一种方法）</p>
+<h2 id="第一种方式"><a href="#第一种方式" class="headerlink" title="第一种方式"></a>第一种方式</h2><p>直接在vercel创建</p>
+<p>首先从vercel要新建个带hexo源文件的仓库<img src="https://gitee.com/wmz1024/pic2/raw/master/20210711143229.png" alt="image-20210711143229005">中点击<img src="https://gitee.com/wmz1024/pic2/raw/master/20210711143401.png" alt="image-20210711143401941"></p>
+<p>搜索<code>hexo</code> 之后点击</p>
+<p>根据vercel创建</p>
+<p>   <img src="https://gitee.com/wmz1024/pic2/raw/master/20210711143525.png" alt="image-20210711143525454"></p>
+<p>创建好了</p>
+<p><img src="https://gitee.com/wmz1024/pic2/raw/master/20210711143723.png" alt="image-20210711143723507"></p>
+<p>这样就可以了 如果需要修改 直接github上找这个新建的仓库就ok了</p>
+<p>装插件直接放在package.json里面就可以了</p>
+<p>直接在线修改就行</p>
+<p>但是这种方法有些困难 新文章难弄</p>
+<h2 id="第二种方式（推荐）"><a href="#第二种方式（推荐）" class="headerlink" title="第二种方式（推荐）"></a>第二种方式（推荐）</h2><p>首先在本地创建一个hexo</p>
+<p>先初始化一下</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">hexo init</span><br></pre></td></tr></table></figure>
+
+<p><img src="https://gitee.com/wmz1024/pic2/raw/master/20210711145018.png" alt="image-20210711145018943"></p>
+<p>有的版本需要单独<code>npm install </code>这里不用</p>
+<p>所以进行第二步</p>
+<p>先要新建一个仓库（在github上）</p>
+<p><img src="https://gitee.com/wmz1024/pic2/raw/master/20210711145537.png" alt="image-20210711145537527"></p>
+<p>复制里面的code链接</p>
+<p>第三步</p>
+<p>在一个其他位置clone仓库</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">git <span class="built_in">clone</span> git@github.com:[username]/[reponame].git</span><br></pre></td></tr></table></figure>
+
+<table>
+<thead>
+<tr>
+<th align="center">名</th>
+<th align="center">类型</th>
+<th align="center">作用</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">[username]</td>
+<td align="center">str</td>
+<td align="center">GitHub用户名</td>
+</tr>
+<tr>
+<td align="center">[reponame]</td>
+<td align="center">str</td>
+<td align="center">GitHub仓库名</td>
+</tr>
+</tbody></table>
+<p>如不是ssh链接 请更改为https链接</p>
+<p><img src="https://gitee.com/wmz1024/pic2/raw/master/20210711152741.png" alt="image-20210711152741338"></p>
+<p>把那个博客源文件复制过来</p>
+<p><img src="https://gitee.com/wmz1024/pic2/raw/master/20210711153803.png" alt="image-20210711153802974"></p>
+<p>之后上传 不用管.gitignore</p>
+<p><img src="https://gitee.com/wmz1024/pic2/raw/master/20210711155932.png" alt="image-20210711155932861"></p>
+<p>之后进入vercel 选这个仓库 开始弄</p>
+<p><img src="https://gitee.com/wmz1024/pic2/raw/master/20210711160140.png" alt="image-20210711160140375"></p>
+<p><img src="https://gitee.com/wmz1024/pic2/raw/master/20210711160322.png" alt="image-20210711160321949"></p>
+<link rel="stylesheet" href="/css/bilicard.css" type="text/css">]]></content>
+      <categories>
+        <category>文章</category>
+      </categories>
+      <tags>
+        <tag>github</tag>
+        <tag>hexo</tag>
+        <tag>博客</tag>
+        <tag>github action</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>今天把undertale打完了😄</title>
     <url>/a65bc6b8.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="我终于打通undertale了"><a href="#我终于打通undertale了" class="headerlink" title="我终于打通undertale了"></a>我终于打通undertale了</h1><p>这个文章只是记录一下我打通了ut而已 要是看一看也可以</p>
@@ -990,7 +1059,7 @@
   <entry>
     <title>经过几天折腾 弄出了个邮箱 i@wmzwsa.xyz</title>
     <url>/11f1a2fc.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="通知-lt-不算是吧-gt"><a href="#通知-lt-不算是吧-gt" class="headerlink" title="通知&lt;不算是吧&gt;"></a>通知&lt;不算是吧&gt;</h1><p>这几天经过几天的折腾<br>弄出来个邮箱<br>可以联系我<br><a href="mailto:&#x69;&#64;&#x77;&#109;&#122;&#119;&#115;&#x61;&#46;&#x78;&#121;&#122;">&#x69;&#64;&#x77;&#109;&#122;&#119;&#115;&#x61;&#46;&#x78;&#121;&#122;</a></p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="通知-lt-不算是吧-gt"><a href="#通知-lt-不算是吧-gt" class="headerlink" title="通知&lt;不算是吧&gt;"></a>通知&lt;不算是吧&gt;</h1><p>这几天经过几天的折腾<br>弄出来个邮箱<br>可以联系我<br><a href="mailto:&#105;&#64;&#x77;&#x6d;&#x7a;&#119;&#115;&#x61;&#46;&#x78;&#121;&#x7a;">&#105;&#64;&#x77;&#x6d;&#x7a;&#119;&#115;&#x61;&#46;&#x78;&#121;&#x7a;</a></p>
 <link rel="stylesheet" href="/css/bilicard.css" type="text/css">]]></content>
       <categories>
         <category>通知</category>
@@ -1518,8 +1587,8 @@
       </categories>
       <tags>
         <tag>github</tag>
-        <tag>github page</tag>
         <tag>hexo</tag>
+        <tag>github page</tag>
         <tag>gh page</tag>
       </tags>
   </entry>
