@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>wlog</title>
+  <icon>http://blog.wmza.cn/icon.png</icon>
+  <subtitle>你作业写完了吗</subtitle>
+  <link href="http://blog.wmza.cn/atom.xml" rel="self"/>
+  
+  <link href="http://blog.wmza.cn/"/>
+  <updated>2021-07-11T08:05:10.895Z</updated>
+  <id>http://blog.wmza.cn/</id>
+  
+  <author>
+    <name>Wmz1024</name>
+    <email>i@wmza.cn</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo博客源文件不使用github action托管（vercel)</title>
+    <link href="http://blog.wmza.cn/f053c80.html"/>
+    <id>http://blog.wmza.cn/f053c80.html</id>
+    <published>2021-07-11T06:24:45.000Z</published>
+    <updated>2021-07-11T08:05:10.895Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="文章" scheme="http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    
+    <category term="github" scheme="http://blog.wmza.cn/tags/github/"/>
+    
+    <category term="hexo" scheme="http://blog.wmza.cn/tags/hexo/"/>
+    
+    <category term="博客" scheme="http://blog.wmza.cn/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="github action" scheme="http://blog.wmza.cn/tags/github-action/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>今天把undertale打完了😄</title>
+    <link href="http://blog.wmza.cn/a65bc6b8.html"/>
+    <id>http://blog.wmza.cn/a65bc6b8.html</id>
+    <published>2021-06-08T07:33:01.000Z</published>
+    <updated>2021-06-08T07:38:08.763Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="文章" scheme="http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    
+    <category term="undertale" scheme="http://blog.wmza.cn/tags/undertale/"/>
+    
+    <category term="ut" scheme="http://blog.wmza.cn/tags/ut/"/>
+    
+    <category term="传说之下" scheme="http://blog.wmza.cn/tags/%E4%BC%A0%E8%AF%B4%E4%B9%8B%E4%B8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2021.6.8日记 晴</title>
+    <link href="http://blog.wmza.cn/aeb2d36.html"/>
+    <id>http://blog.wmza.cn/aeb2d36.html</id>
+    <published>2021-06-08T06:51:30.000Z</published>
+    <updated>2021-06-08T07:21:48.866Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="日记" scheme="http://blog.wmza.cn/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+    <category term="日记" scheme="http://blog.wmza.cn/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>服务器搭建动态网页</title>
+    <link href="http://blog.wmza.cn/c53c84e7.html"/>
+    <id>http://blog.wmza.cn/c53c84e7.html</id>
+    <published>2021-05-22T12:40:42.000Z</published>
+    <updated>2021-05-22T13:17:14.918Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="文章" scheme="http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    <category term="后端" scheme="http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/%E5%90%8E%E7%AB%AF/"/>
+    
+    
+    <category term="服务器" scheme="http://blog.wmza.cn/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+    <category term="动态网页" scheme="http://blog.wmza.cn/tags/%E5%8A%A8%E6%80%81%E7%BD%91%E9%A1%B5/"/>
+    
+    <category term="php" scheme="http://blog.wmza.cn/tags/php/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>缅怀！袁隆平逝世</title>
+    <link href="http://blog.wmza.cn/ee30bc12.html"/>
+    <id>http://blog.wmza.cn/ee30bc12.html</id>
+    <published>2021-05-22T11:36:07.000Z</published>
+    <updated>2021-05-22T11:40:09.702Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="文章" scheme="http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    
+    <category term="袁隆平" scheme="http://blog.wmza.cn/tags/%E8%A2%81%E9%9A%86%E5%B9%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在hexo博客上使用aplayer-续集</title>
+    <link href="http://blog.wmza.cn/db5f4c9.html"/>
+    <id>http://blog.wmza.cn/db5f4c9.html</id>
+    <published>2021-05-18T08:57:38.000Z</published>
+    <updated>2021-05-18T11:55:14.936Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="文章" scheme="http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    <category term="续集" scheme="http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/%E7%BB%AD%E9%9B%86/"/>
+    
+    
+    <category term="hexo" scheme="http://blog.wmza.cn/tags/hexo/"/>
+    
+    <category term="aplayer" scheme="http://blog.wmza.cn/tags/aplayer/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在hexo博客上使用aplayer</title>
+    <link href="http://blog.wmza.cn/a8acdd67.html"/>
+    <id>http://blog.wmza.cn/a8acdd67.html</id>
+    <published>2021-05-17T11:35:05.000Z</published>
+    <updated>2021-05-17T12:11:38.530Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="文章" scheme="http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    
+    <category term="hexo" scheme="http://blog.wmza.cn/tags/hexo/"/>
+    
+    <category term="aplayer" scheme="http://blog.wmza.cn/tags/aplayer/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>html-教程 (3)</title>
+    <link href="http://blog.wmza.cn/dfd2f59a.html"/>
+    <id>http://blog.wmza.cn/dfd2f59a.html</id>
+    <published>2021-05-03T00:03:27.000Z</published>
+    <updated>2021-05-03T00:04:20.807Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="教程-html" scheme="http://blog.wmza.cn/categories/%E6%95%99%E7%A8%8B-html/"/>
+    
+    
+    <category term="教程" scheme="http://blog.wmza.cn/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="html" scheme="http://blog.wmza.cn/tags/html/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>html-教程 (2)</title>
+    <link href="http://blog.wmza.cn/c6c9c4db.html"/>
+    <id>http://blog.wmza.cn/c6c9c4db.html</id>
+    <published>2021-05-03T00:01:34.000Z</published>
+    <updated>2021-05-03T00:04:20.810Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="教程-html" scheme="http://blog.wmza.cn/categories/%E6%95%99%E7%A8%8B-html/"/>
+    
+    
+    <category term="教程" scheme="http://blog.wmza.cn/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="html" scheme="http://blog.wmza.cn/tags/html/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>html-教程 (1)</title>
+    <link href="http://blog.wmza.cn/ede49718.html"/>
+    <id>http://blog.wmza.cn/ede49718.html</id>
+    <published>2021-05-02T23:56:29.000Z</published>
+    <updated>2021-05-03T00:04:20.809Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="教程-html" scheme="http://blog.wmza.cn/categories/%E6%95%99%E7%A8%8B-html/"/>
+    
+    
+    <category term="教程" scheme="http://blog.wmza.cn/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="html" scheme="http://blog.wmza.cn/tags/html/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>密码测试</title>
+    <link href="http://blog.wmza.cn/d46f6783.html"/>
+    <id>http://blog.wmza.cn/d46f6783.html</id>
+    <published>2021-04-10T10:13:04.000Z</published>
+    <updated>2021-04-10T10:14:04.417Z</updated>
+    
+    
+    <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>关于我对迷你世界和我的世界的看法</title>
+    <link href="http://blog.wmza.cn/2ee2518d.html"/>
+    <id>http://blog.wmza.cn/2ee2518d.html</id>
+    <published>2021-04-10T05:35:31.000Z</published>
+    <updated>2021-04-10T08:15:21.124Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="文章" scheme="http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    
+    <category term="minecraft" scheme="http://blog.wmza.cn/tags/minecraft/"/>
+    
+    <category term="看法" scheme="http://blog.wmza.cn/tags/%E7%9C%8B%E6%B3%95/"/>
+    
+    <category term="我的世界" scheme="http://blog.wmza.cn/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/"/>
+    
+    <category term="迷你世界" scheme="http://blog.wmza.cn/tags/%E8%BF%B7%E4%BD%A0%E4%B8%96%E7%95%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://blog.wmza.cn/4a17b156.html"/>
+    <id>http://blog.wmza.cn/4a17b156.html</id>
+    <published>2021-03-05T04:57:44.061Z</published>
+    <updated>2021-04-10T05:53:44.857Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="通知" scheme="http://blog.wmza.cn/categories/%E9%80%9A%E7%9F%A5/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>最近换了个评论系统 比之前的gitalk更好用</title>
+    <link href="http://blog.wmza.cn/3e4cf0e1.html"/>
+    <id>http://blog.wmza.cn/3e4cf0e1.html</id>
+    <published>2021-02-13T14:43:31.000Z</published>
+    <updated>2021-04-10T05:53:23.006Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="通知" scheme="http://blog.wmza.cn/categories/%E9%80%9A%E7%9F%A5/"/>
+    
+    
+    <category term="更换" scheme="http://blog.wmza.cn/tags/%E6%9B%B4%E6%8D%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>debian安装 博客突然坏了 补档</title>
+    <link href="http://blog.wmza.cn/49ab854f.html"/>
+    <id>http://blog.wmza.cn/49ab854f.html</id>
+    <published>2021-02-13T13:17:06.000Z</published>
+    <updated>2021-04-10T05:46:33.219Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="文章" scheme="http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    
+    <category term="安装" scheme="http://blog.wmza.cn/tags/%E5%AE%89%E8%A3%85/"/>
+    
+    <category term="debian" scheme="http://blog.wmza.cn/tags/debian/"/>
+    
+    <category term="linux" scheme="http://blog.wmza.cn/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2020回顾 上</title>
+    <link href="http://blog.wmza.cn/2b244555.html"/>
+    <id>http://blog.wmza.cn/2b244555.html</id>
+    <published>2021-02-12T06:07:30.000Z</published>
+    <updated>2021-04-10T05:46:23.584Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="文章" scheme="http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    
+    <category term="回顾" scheme="http://blog.wmza.cn/tags/%E5%9B%9E%E9%A1%BE/"/>
+    
+    <category term="2020" scheme="http://blog.wmza.cn/tags/2020/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>安装一些基本的系统 1</title>
+    <link href="http://blog.wmza.cn/a81556f1.html"/>
+    <id>http://blog.wmza.cn/a81556f1.html</id>
+    <published>2021-02-11T13:03:39.000Z</published>
+    <updated>2021-04-10T05:48:52.637Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="文章" scheme="http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    
+    <category term="安装" scheme="http://blog.wmza.cn/tags/%E5%AE%89%E8%A3%85/"/>
+    
+    <category term="linux" scheme="http://blog.wmza.cn/tags/linux/"/>
+    
+    <category term="windows" scheme="http://blog.wmza.cn/tags/windows/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何搭建自己的图床 gitee</title>
+    <link href="http://blog.wmza.cn/ab1d37b.html"/>
+    <id>http://blog.wmza.cn/ab1d37b.html</id>
+    <published>2021-02-07T02:55:15.000Z</published>
+    <updated>2021-04-10T05:50:46.758Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="文章" scheme="http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    
+    <category term="搭建" scheme="http://blog.wmza.cn/tags/%E6%90%AD%E5%BB%BA/"/>
+    
+    <category term="图床" scheme="http://blog.wmza.cn/tags/%E5%9B%BE%E5%BA%8A/"/>
+    
+    <category term="node" scheme="http://blog.wmza.cn/tags/node/"/>
+    
+    <category term="node.js" scheme="http://blog.wmza.cn/tags/node-js/"/>
+    
+    <category term="picgo" scheme="http://blog.wmza.cn/tags/picgo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>安装debian</title>
+    <link href="http://blog.wmza.cn/af886b34.html"/>
+    <id>http://blog.wmza.cn/af886b34.html</id>
+    <published>2021-02-07T01:23:32.000Z</published>
+    <updated>2021-04-10T05:48:29.461Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="文章" scheme="http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    
+    <category term="安装" scheme="http://blog.wmza.cn/tags/%E5%AE%89%E8%A3%85/"/>
+    
+    <category term="debian" scheme="http://blog.wmza.cn/tags/debian/"/>
+    
+    <category term="linux" scheme="http://blog.wmza.cn/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>iframe测试</title>
+    <link href="http://blog.wmza.cn/71e2d2d3.html"/>
+    <id>http://blog.wmza.cn/71e2d2d3.html</id>
+    <published>2021-02-06T05:59:18.000Z</published>
+    <updated>2021-04-10T05:47:24.877Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="通知" scheme="http://blog.wmza.cn/categories/%E9%80%9A%E7%9F%A5/"/>
+    
+    
+    <category term="iframe" scheme="http://blog.wmza.cn/tags/iframe/"/>
+    
+    <category term="测试" scheme="http://blog.wmza.cn/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+</feed>
