@@ -6,7 +6,7 @@
   <link href="http://blog.wmza.cn/atom.xml" rel="self"/>
   
   <link href="http://blog.wmza.cn/"/>
-  <updated>2021-08-06T06:48:30.637Z</updated>
+  <updated>2021-08-09T09:36:50.722Z</updated>
   <id>http://blog.wmza.cn/</id>
   
   <author>
@@ -17,11 +17,40 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>无聊时在课上弄得python笔记(我可真无聊 turtle的垃圾教程</title>
+    <link href="http://blog.wmza.cn/c48ef0f6.html"/>
+    <id>http://blog.wmza.cn/c48ef0f6.html</id>
+    <published>2021-08-09T09:34:15.000Z</published>
+    <updated>2021-08-09T09:36:50.722Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="文章" scheme="http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    <category term="笔记" scheme="http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="python" scheme="http://blog.wmza.cn/tags/python/"/>
+    
+    <category term="笔记" scheme="http://blog.wmza.cn/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
     <title>2021.8.6 日记 晴</title>
     <link href="http://blog.wmza.cn/87e1c0bc.html"/>
     <id>http://blog.wmza.cn/87e1c0bc.html</id>
     <published>2021-08-06T05:38:22.000Z</published>
-    <updated>2021-08-06T06:48:30.637Z</updated>
+    <updated>2021-08-06T06:49:40.518Z</updated>
     
     
       
@@ -524,39 +553,6 @@
     <category term="linux" scheme="http://blog.wmza.cn/tags/linux/"/>
     
     <category term="windows" scheme="http://blog.wmza.cn/tags/windows/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>如何搭建自己的图床 gitee</title>
-    <link href="http://blog.wmza.cn/ab1d37b.html"/>
-    <id>http://blog.wmza.cn/ab1d37b.html</id>
-    <published>2021-02-07T02:55:15.000Z</published>
-    <updated>2021-04-10T05:50:46.758Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="文章" scheme="http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/"/>
-    
-    
-    <category term="搭建" scheme="http://blog.wmza.cn/tags/%E6%90%AD%E5%BB%BA/"/>
-    
-    <category term="图床" scheme="http://blog.wmza.cn/tags/%E5%9B%BE%E5%BA%8A/"/>
-    
-    <category term="node" scheme="http://blog.wmza.cn/tags/node/"/>
-    
-    <category term="node.js" scheme="http://blog.wmza.cn/tags/node-js/"/>
-    
-    <category term="picgo" scheme="http://blog.wmza.cn/tags/picgo/"/>
     
   </entry>
   

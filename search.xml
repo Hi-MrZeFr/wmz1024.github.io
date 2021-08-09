@@ -1,6 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>无聊时在课上弄得python笔记(我可真无聊 turtle的垃圾教程</title>
+    <url>/c48ef0f6.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="这是一个笔记-turtle的垃圾教程"><a href="#这是一个笔记-turtle的垃圾教程" class="headerlink" title="这是一个笔记-turtle的垃圾教程"></a>这是一个笔记-turtle的垃圾教程</h1><p>1.画图-turtle</p>
+<p>类似</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">import turtle as t</span><br><span class="line">t.forward(12)</span><br><span class="line"># </span><br></pre></td></tr></table></figure>
+
+<p>题会出，只会出1个 想画图 导入库 <code>import</code> <code>import turtle</code> as使用 <code>import turtle as t</code> 可以写 可以不写 写了可方便一些</p>
+<p>import<strong>推荐放到代码最上端</strong></p>
+<p>python暂时没有自带的画图 <strong>一定要做import导入</strong></p>
+<p>要使用<code>库名.方法名</code>的方法 类似：绘制线段代码<code>t.forward(100)</code></p>
+<p>2.导入库有方法</p>
+<p>绘制图形最重要的是</p>
+<p>1 线段 2 旋转</p>
+<p>绘制线段：<code>t.forward(长度 像素)</code> <code>python import turtle as t t.forward(12)</code> 旋转：</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">t.right()</span><br></pre></td></tr></table></figure>
+
+<p><code>t.left()</code> 括号中填写角度 <code>python import turtle as t t.left(1) t.right(2)</code> 画笔粗细 <code>python import turtle as t t.pensize(12)</code> 调整画笔粗细 后面的参数代表</p>
+<p>画笔颜色</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">t.color()</span><br></pre></td></tr></table></figure>
+
+<p>字符串 为颜色英文单词</p>
+<p>如果错误颜色为black</p>
+<p><strong>抬笔</strong></p>
+<p>t.penup()</p>
+<p>无参数</p>
+<p><strong>下笔</strong></p>
+<p>t.pendown()</p>
+<p>无参数</p>
+<p><strong>定位</strong></p>
+<p>t.goto()</p>
+<p>为坐标 x&amp;z</p>
+<p><strong>保留画面</strong></p>
+<p>t.done()</p>
+<p>无参数</p>
+<p><strong>隐藏画笔</strong></p>
+<p>t.hideturtle()</p>
+<p>无参数</p>
+<p><strong>绘制圆圈（圆弧）</strong></p>
+<p>t.circle(半径,弧度)</p>
+<p>弧度可以不填 如果不填为正常</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">import turtle as t</span><br><span class="line">t.circle(100)</span><br></pre></td></tr></table></figure>
+
+<p><strong>填充</strong> 填充颜色： t.fillcolor(‘颜色’) 必须是字符串</p>
+<p>填充起点: t.begin_fill() 无参数</p>
+<p>填充结束: t.end_fill() 无参数</p>
+<link rel="stylesheet" href="/css/bilicard.css" type="text/css">]]></content>
+      <categories>
+        <category>文章</category>
+        <category>笔记</category>
+      </categories>
+      <tags>
+        <tag>python</tag>
+        <tag>笔记</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>2021.8.6 日记 晴</title>
     <url>/87e1c0bc.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="2021-8-6-晴-星期五"><a href="#2021-8-6-晴-星期五" class="headerlink" title="2021.8.6  晴 星期五"></a>2021.8.6  晴 星期五</h1><h2 id="早晨"><a href="#早晨" class="headerlink" title="早晨"></a>早晨</h2><p>早晨依然是没有吃早饭</p>
@@ -1021,8 +1077,8 @@
         <category>文章</category>
       </categories>
       <tags>
-        <tag>github</tag>
         <tag>git</tag>
+        <tag>github</tag>
         <tag>教程</tag>
       </tags>
   </entry>
@@ -1037,8 +1093,8 @@
         <category>文章</category>
       </categories>
       <tags>
-        <tag>github</tag>
         <tag>git</tag>
+        <tag>github</tag>
         <tag>教程</tag>
       </tags>
   </entry>
@@ -1053,8 +1109,8 @@
         <category>文章</category>
       </categories>
       <tags>
-        <tag>github</tag>
         <tag>git</tag>
+        <tag>github</tag>
         <tag>教程</tag>
       </tags>
   </entry>
@@ -1087,8 +1143,8 @@
         <category>文章</category>
       </categories>
       <tags>
-        <tag>github</tag>
         <tag>git</tag>
+        <tag>github</tag>
         <tag>教程</tag>
       </tags>
   </entry>
@@ -1110,7 +1166,7 @@
   <entry>
     <title>经过几天折腾 弄出了个邮箱 i@wmzwsa.xyz</title>
     <url>/11f1a2fc.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="通知-lt-不算是吧-gt"><a href="#通知-lt-不算是吧-gt" class="headerlink" title="通知&lt;不算是吧&gt;"></a>通知&lt;不算是吧&gt;</h1><p>这几天经过几天的折腾<br>弄出来个邮箱<br>可以联系我<br><a href="mailto:&#105;&#x40;&#x77;&#109;&#122;&#x77;&#x73;&#x61;&#46;&#x78;&#121;&#122;">&#105;&#x40;&#x77;&#109;&#122;&#x77;&#x73;&#x61;&#46;&#x78;&#121;&#122;</a></p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="通知-lt-不算是吧-gt"><a href="#通知-lt-不算是吧-gt" class="headerlink" title="通知&lt;不算是吧&gt;"></a>通知&lt;不算是吧&gt;</h1><p>这几天经过几天的折腾<br>弄出来个邮箱<br>可以联系我<br><a href="mailto:&#105;&#x40;&#119;&#x6d;&#122;&#119;&#x73;&#x61;&#x2e;&#120;&#121;&#122;">&#105;&#x40;&#119;&#x6d;&#122;&#119;&#x73;&#x61;&#x2e;&#120;&#121;&#122;</a></p>
 <link rel="stylesheet" href="/css/bilicard.css" type="text/css">]]></content>
       <categories>
         <category>通知</category>
@@ -1133,8 +1189,8 @@
         <category>文章</category>
       </categories>
       <tags>
-        <tag>github</tag>
         <tag>git</tag>
+        <tag>github</tag>
         <tag>ssh</tag>
       </tags>
   </entry>
@@ -1245,8 +1301,8 @@
         <category>文章</category>
       </categories>
       <tags>
-        <tag>github</tag>
         <tag>git</tag>
+        <tag>github</tag>
         <tag>github page</tag>
         <tag>vercel</tag>
       </tags>
