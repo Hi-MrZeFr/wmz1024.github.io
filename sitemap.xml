@@ -613,13 +613,6 @@
   </url>
   
   <url>
-    <loc>http://blog.wmza.cn/tags/git/</loc>
-    <lastmod>2021-08-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://blog.wmza.cn/tags/github/</loc>
     <lastmod>2021-08-09</lastmod>
     <changefreq>daily</changefreq>
@@ -627,7 +620,28 @@
   </url>
   
   <url>
+    <loc>http://blog.wmza.cn/tags/git/</loc>
+    <lastmod>2021-08-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.wmza.cn/tags/ssh/</loc>
+    <lastmod>2021-08-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.wmza.cn/tags/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2021-08-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.wmza.cn/tags/html/</loc>
     <lastmod>2021-08-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -649,20 +663,6 @@
   
   <url>
     <loc>http://blog.wmza.cn/tags/github-action/</loc>
-    <lastmod>2021-08-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.wmza.cn/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2021-08-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.wmza.cn/tags/html/</loc>
     <lastmod>2021-08-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -704,20 +704,6 @@
   </url>
   
   <url>
-    <loc>http://blog.wmza.cn/tags/wmz-blog/</loc>
-    <lastmod>2021-08-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.wmza.cn/tags/%E6%9B%B4%E6%96%B0%E4%BA%86/</loc>
-    <lastmod>2021-08-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://blog.wmza.cn/tags/FA/</loc>
     <lastmod>2021-08-09</lastmod>
     <changefreq>daily</changefreq>
@@ -726,6 +712,20 @@
   
   <url>
     <loc>http://blog.wmza.cn/tags/app/</loc>
+    <lastmod>2021-08-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.wmza.cn/tags/wmz-blog/</loc>
+    <lastmod>2021-08-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.wmza.cn/tags/%E6%9B%B4%E6%96%B0%E4%BA%86/</loc>
     <lastmod>2021-08-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -837,20 +837,6 @@
   </url>
   
   <url>
-    <loc>http://blog.wmza.cn/tags/android/</loc>
-    <lastmod>2021-08-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.wmza.cn/tags/Android/</loc>
-    <lastmod>2021-08-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://blog.wmza.cn/tags/%E7%9C%8B%E6%B3%95/</loc>
     <lastmod>2021-08-09</lastmod>
     <changefreq>daily</changefreq>
@@ -872,14 +858,28 @@
   </url>
   
   <url>
-    <loc>http://blog.wmza.cn/tags/aplayer/</loc>
+    <loc>http://blog.wmza.cn/tags/%E4%B8%80%E5%91%A8%E5%B9%B4/</loc>
     <lastmod>2021-08-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://blog.wmza.cn/tags/%E4%B8%80%E5%91%A8%E5%B9%B4/</loc>
+    <loc>http://blog.wmza.cn/tags/android/</loc>
+    <lastmod>2021-08-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.wmza.cn/tags/Android/</loc>
+    <lastmod>2021-08-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.wmza.cn/tags/aplayer/</loc>
     <lastmod>2021-08-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -921,13 +921,6 @@
   </url>
   
   <url>
-    <loc>http://blog.wmza.cn/tags/vercel/</loc>
-    <lastmod>2021-08-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://blog.wmza.cn/tags/fusionapp/</loc>
     <lastmod>2021-08-09</lastmod>
     <changefreq>daily</changefreq>
@@ -936,6 +929,13 @@
   
   <url>
     <loc>http://blog.wmza.cn/tags/githubpage/</loc>
+    <lastmod>2021-08-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.wmza.cn/tags/vercel/</loc>
     <lastmod>2021-08-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1131,14 +1131,14 @@
   </url>
   
   <url>
-    <loc>http://blog.wmza.cn/tags/hello-world/</loc>
+    <loc>http://blog.wmza.cn/tags/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2021-08-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://blog.wmza.cn/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <loc>http://blog.wmza.cn/tags/hello-world/</loc>
     <lastmod>2021-08-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -1175,14 +1175,14 @@
   </url>
   
   <url>
-    <loc>http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/%E7%BB%AD%E9%9B%86/</loc>
+    <loc>http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/%E5%8D%9A%E5%AE%A2%E5%91%A8%E5%B9%B4/</loc>
     <lastmod>2021-08-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/%E5%8D%9A%E5%AE%A2%E5%91%A8%E5%B9%B4/</loc>
+    <loc>http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/%E7%BB%AD%E9%9B%86/</loc>
     <lastmod>2021-08-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
