@@ -258,7 +258,7 @@ window.addEventListener('load',preloader.endLoading())</script><div class="js-pj
   function initWaline () {
     const waline = new Waline(Object.assign({
       el: '#waline-wrap',
-      serverURL: 'https://comment.wmza.cn',
+      serverURL: 'https://comment.wmza.cn/',
       avatar: 'robohash',
       path: location.pathname,
       emojiCDN: '',
@@ -380,7 +380,7 @@ if ('Waline' === 'Gitalk' || !true) {
     const loadWaline = () => {
       Waline.Widget.RecentComments({
         el: '#card-newest-comments .aside-list',
-        serverURL: 'https://comment.wmza.cn',
+        serverURL: 'https://comment.wmza.cn/',
         count: 6
       }).then(comments => {
         const walineArray = comments.map(function (e) {

@@ -67,7 +67,7 @@
   isHome: false,
   isHighlightShrink: false,
   isToc: false,
-  postUpdate: '2021-08-09 17:50:10'
+  postUpdate: '2021-08-19 09:04:21'
 }</script><noscript><style type="text/css">
   #nav {
     opacity: 1
@@ -244,7 +244,7 @@ window.addEventListener('load',preloader.endLoading())</script><div class="js-pj
     const loadWaline = () => {
       Waline.Widget.RecentComments({
         el: '#card-newest-comments .aside-list',
-        serverURL: 'https://comment.wmza.cn',
+        serverURL: 'https://comment.wmza.cn/',
         count: 6
       }).then(comments => {
         const walineArray = comments.map(function (e) {
