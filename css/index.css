@@ -5260,6 +5260,12 @@ div#runtime {
 #waline .vcards .vcard .vcontent.expand:after {
   z-index: 22;
 }
+#waline-wrap textarea {
+  background: url("/img/comment_bg.png") 100% 100% no-repeat;
+}
+#waline-wrap textarea:focus {
+  background-image: none;
+}
 .fireworks {
   position: fixed;
   top: 0;
