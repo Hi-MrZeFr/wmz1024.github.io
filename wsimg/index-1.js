@@ -1,4 +1,4 @@
-<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>/**
+/**
  * Created by Lete on 2020/7/7.
  * Butterfly在3.4.0版本后去除了jQuery
  * 注意有使用到jQuery，请自行引入
@@ -69,4 +69,4 @@ $(document).ready(function(e) {
     var nowYear = now.getFullYear();
     since = since == nowYear?since:since+" - "+nowYear;
     $('.copyright').html('©'+since+' <i style="color:#FF6A6A;animation: announ_animation 0.8s linear infinite;" class="fa fa-heartbeat"></i> '+name);
-});<link rel="stylesheet" href="/css/bilicard.css" type="text/css">
+});
