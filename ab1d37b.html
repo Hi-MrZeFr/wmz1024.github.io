@@ -272,7 +272,7 @@ if ('Waline' === 'Gitalk' || !true) {
     const loadWaline = () => {
       Waline.Widget.RecentComments({
         el: '#card-newest-comments .aside-list',
-        serverURL: 'https://comment.wmza.cn',
+        serverURL: 'https://comment.wmza.cn/comment?type=recent',
         count: 6
       }).then(comments => {
         const walineArray = comments.map(function (e) {
@@ -341,7 +341,7 @@ if (false) {
 }
 
 var pjax = new Pjax({
-  elements: 'a:not([target="_blank"]):not([href="/shuoshuo/"])',
+  elements: 'a:not([target="_blank"]):not([href="/shuoshuo"])',
   selectors: pjaxSelectors,
   cacheBust: false,
   analytics: false,
