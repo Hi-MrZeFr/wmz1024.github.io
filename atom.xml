@@ -6,7 +6,7 @@
   <link href="http://blog.wmza.cn/atom.xml" rel="self"/>
   
   <link href="http://blog.wmza.cn/"/>
-  <updated>2021-08-09T09:49:30.000Z</updated>
+  <updated>2021-09-10T12:06:26.683Z</updated>
   <id>http://blog.wmza.cn/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>实体机安装windows11的感受</title>
+    <link href="http://blog.wmza.cn/2f3c3637.html"/>
+    <id>http://blog.wmza.cn/2f3c3637.html</id>
+    <published>2021-09-09T12:22:53.000Z</published>
+    <updated>2021-09-10T12:06:26.683Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="文章" scheme="http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    <category term="感受" scheme="http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/%E6%84%9F%E5%8F%97/"/>
+    
+    
+    <category term="Windows" scheme="http://blog.wmza.cn/tags/Windows/"/>
+    
+    <category term="Windows11" scheme="http://blog.wmza.cn/tags/Windows11/"/>
+    
+  </entry>
   
   <entry>
     <title>无聊时在课上弄得python笔记(我可真无聊 turtle的垃圾教程</title>
@@ -436,11 +465,11 @@
     <category term="文章" scheme="http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/"/>
     
     
-    <category term="minecraft" scheme="http://blog.wmza.cn/tags/minecraft/"/>
-    
     <category term="看法" scheme="http://blog.wmza.cn/tags/%E7%9C%8B%E6%B3%95/"/>
     
     <category term="我的世界" scheme="http://blog.wmza.cn/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/"/>
+    
+    <category term="minecraft" scheme="http://blog.wmza.cn/tags/minecraft/"/>
     
     <category term="迷你世界" scheme="http://blog.wmza.cn/tags/%E8%BF%B7%E4%BD%A0%E4%B8%96%E7%95%8C/"/>
     
@@ -524,35 +553,6 @@
     <category term="回顾" scheme="http://blog.wmza.cn/tags/%E5%9B%9E%E9%A1%BE/"/>
     
     <category term="2020" scheme="http://blog.wmza.cn/tags/2020/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>安装一些基本的系统 1</title>
-    <link href="http://blog.wmza.cn/a81556f1.html"/>
-    <id>http://blog.wmza.cn/a81556f1.html</id>
-    <published>2021-02-11T13:03:39.000Z</published>
-    <updated>2021-04-10T05:48:54.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="文章" scheme="http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/"/>
-    
-    
-    <category term="安装" scheme="http://blog.wmza.cn/tags/%E5%AE%89%E8%A3%85/"/>
-    
-    <category term="linux" scheme="http://blog.wmza.cn/tags/linux/"/>
-    
-    <category term="windows" scheme="http://blog.wmza.cn/tags/windows/"/>
     
   </entry>
   
