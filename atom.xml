@@ -6,7 +6,7 @@
   <link href="http://blog.wmza.cn/atom.xml" rel="self"/>
   
   <link href="http://blog.wmza.cn/"/>
-  <updated>2021-09-10T12:06:26.683Z</updated>
+  <updated>2021-09-10T12:07:11.836Z</updated>
   <id>http://blog.wmza.cn/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://blog.wmza.cn/2f3c3637.html"/>
     <id>http://blog.wmza.cn/2f3c3637.html</id>
     <published>2021-09-09T12:22:53.000Z</published>
-    <updated>2021-09-10T12:06:26.683Z</updated>
+    <updated>2021-09-10T12:07:11.836Z</updated>
     
     
       
@@ -465,11 +465,11 @@
     <category term="文章" scheme="http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/"/>
     
     
+    <category term="minecraft" scheme="http://blog.wmza.cn/tags/minecraft/"/>
+    
     <category term="看法" scheme="http://blog.wmza.cn/tags/%E7%9C%8B%E6%B3%95/"/>
     
     <category term="我的世界" scheme="http://blog.wmza.cn/tags/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/"/>
-    
-    <category term="minecraft" scheme="http://blog.wmza.cn/tags/minecraft/"/>
     
     <category term="迷你世界" scheme="http://blog.wmza.cn/tags/%E8%BF%B7%E4%BD%A0%E4%B8%96%E7%95%8C/"/>
     
