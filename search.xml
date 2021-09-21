@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>如何搭建一个网站(没写完呢)</title>
+    <title>如何搭建一个网站(没写完呢 慢慢更新)</title>
     <url>//2021/a2bad115.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="如何搭建一个网站-完整版"><a href="#如何搭建一个网站-完整版" class="headerlink" title="如何搭建一个网站(完整版)"></a>如何搭建一个网站(完整版)</h1><details cyan open><summary> 碎碎念 </summary>
               <div class='content'>
@@ -15,7 +15,7 @@
               </div>
             </details>
 
-<h3 id="第一步"><a href="#第一步" class="headerlink" title="第一步"></a>第一步</h3><p><img src="https://gitee.com/wmz1024/pic3/raw/master/202109210930089.png" alt="image-20210921093033277"></p>
+<p><img src="https://gitee.com/wmz1024/pic3/raw/master/202109210930089.png" alt="image-20210921093033277"></p>
 <p>点击<code>New</code>按钮 新建个repo</p>
 <p><img src="https://gitee.com/wmz1024/pic3/raw/master/202109210931731.png" alt="image-20210921093127162"></p>
 <p>仓库名字可以填写 <code>username</code>.github.io 其中<code>username</code>填写</p>
@@ -25,13 +25,24 @@
               <p>随意填写需要在 setting -&gt; pages 自己打开pages服务</p><p><img src="https://gitee.com/wmz1024/pic3/raw/master/202109210939502.png" alt="image-20210921093915142">点击save</p>
               </div>
             </details>
+
+<p>username.github.io的就是username.github.io访问</p>
+<p>但是随便写就是 username.github.io/随便写的/</p>
+<p>我们可以直接在上面上传代码 html就不怎么讲了</p>
+<h2 id="GitHub上搭建个博客"><a href="#GitHub上搭建个博客" class="headerlink" title="GitHub上搭建个博客"></a>GitHub上搭建个博客</h2><p>目前用的就是hexo的博客 其实你也可以找别的来 </p>
+<p>首先下载一个工具 aki弄得</p>
+<p><a href="https://file.wmza.cn/one/myself/download/menu.sh">https://file.wmza.cn/one/myself/download/menu.sh</a></p>
+<p>复制到一个空文件夹 请确保安装过git（bash）</p>
+<p>输入 1</p>
+<p>之后就有了</p>
+<p><img src="https://gitee.com/wmz1024/pic3/raw/master/202109211139756.png" alt="image-20210921113929646">剩下的只需要在网上搜一搜上传文章之类的了</p>
 <link rel="stylesheet" href="/css/bilicard.css" type="text/css">]]></content>
       <categories>
         <category>文章</category>
       </categories>
       <tags>
-        <tag>搭建</tag>
         <tag>网站</tag>
+        <tag>搭建</tag>
       </tags>
   </entry>
   <entry>
@@ -1261,7 +1272,7 @@
   <entry>
     <title>经过几天折腾 弄出了个邮箱 i@wmzwsa.xyz</title>
     <url>//2020/11f1a2fc.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="通知-lt-不算是吧-gt"><a href="#通知-lt-不算是吧-gt" class="headerlink" title="通知&lt;不算是吧&gt;"></a>通知&lt;不算是吧&gt;</h1><p>这几天经过几天的折腾<br>弄出来个邮箱<br>可以联系我<br><a href="mailto:&#x69;&#64;&#119;&#x6d;&#122;&#x77;&#115;&#97;&#x2e;&#x78;&#121;&#122;">&#x69;&#64;&#119;&#x6d;&#122;&#x77;&#115;&#97;&#x2e;&#x78;&#121;&#122;</a></p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="通知-lt-不算是吧-gt"><a href="#通知-lt-不算是吧-gt" class="headerlink" title="通知&lt;不算是吧&gt;"></a>通知&lt;不算是吧&gt;</h1><p>这几天经过几天的折腾<br>弄出来个邮箱<br>可以联系我<br><a href="mailto:&#x69;&#64;&#119;&#x6d;&#x7a;&#119;&#115;&#x61;&#46;&#120;&#121;&#x7a;">&#x69;&#64;&#119;&#x6d;&#x7a;&#119;&#115;&#x61;&#46;&#120;&#121;&#x7a;</a></p>
 <link rel="stylesheet" href="/css/bilicard.css" type="text/css">]]></content>
       <categories>
         <category>通知</category>
