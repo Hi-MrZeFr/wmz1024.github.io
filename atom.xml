@@ -31,9 +31,9 @@
     <category term="文章" scheme="http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/"/>
     
     
-    <category term="搭建" scheme="http://blog.wmza.cn/tags/%E6%90%AD%E5%BB%BA/"/>
-    
     <category term="网站" scheme="http://blog.wmza.cn/tags/%E7%BD%91%E7%AB%99/"/>
+    
+    <category term="搭建" scheme="http://blog.wmza.cn/tags/%E6%90%AD%E5%BB%BA/"/>
     
   </entry>
   
