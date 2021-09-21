@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>如何搭建一个网站(没写完呢)</title>
-    <url>/a2bad115.html</url>
+    <url>//2021/a2bad115.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="如何搭建一个网站-完整版"><a href="#如何搭建一个网站-完整版" class="headerlink" title="如何搭建一个网站(完整版)"></a>如何搭建一个网站(完整版)</h1><details cyan open><summary> 碎碎念 </summary>
               <div class='content'>
               <p>为啥还要讲如何搭建一个网站呢 以前我不是讲过吗 以前的都是零零碎碎的教程 根本没有整合到一起 要是你想找那也很麻烦 所以就重新弄了个比较整合到一起的 而且某些过时消息也弄下（不寒碜！）</p><p>在之后搭建网站可能就会有问题 某些pages服务不给你用了（gitee：念我身份证号好了） 所以会有更改，其实gitee需要了实名 直接断了路 应该是之前弄得就没有什么用 </p><p><img src="https://gitee.com/wmz1024/pic3/raw/master/202109202026850.png" alt="image-20210920202658953"></p><p>域名的事情 其实很多pages服务都带自家的二级域名 比如说GitHub pages（*.github.io) 还有你在网上可以申请到的二级域名也有很多 而且还有付费的域名（比如说我的）自定义性就很高 还有freenom免费域名 这个也不错 也就是tk一些域名</p><p>还有服务器 服务器就很好解决了 有付费的 比如说阿里云的ecs什么的 还有免费的 </p><p>html的可以直接找某些pages服务 还有vercel（托管的）</p><p>php可以使用某些免费空间的 还有vercel（很难用 属于是）还有自己的服务器</p><p>公网IP的话你可以用某些frp 或者自带的 如果服务器自带的IP就不建议直接绑定域名或者直接暴力ip</p>
@@ -30,13 +30,13 @@
         <category>文章</category>
       </categories>
       <tags>
-        <tag>网站</tag>
         <tag>搭建</tag>
+        <tag>网站</tag>
       </tags>
   </entry>
   <entry>
     <title>实体机安装windows11的感受</title>
-    <url>/2f3c3637.html</url>
+    <url>//2021/2f3c3637.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="实体机安装windows11的感受"><a href="#实体机安装windows11的感受" class="headerlink" title="实体机安装windows11的感受"></a>实体机安装windows11的感受</h1><h2 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h2><p><img src="https://gitee.com/wmz1024/pic3/raw/master/202109092026602.png" alt="Windows11"></p>
 <p>Windows11 也就是Microsoft弄得新系统的欸（不是说Windows10是最后一个Windows系列的操作系统了吗？）</p>
 <p><img src="https://gitee.com/wmz1024/pic3/raw/master/202109092034487.png" alt="image-20210909203427336"></p>
@@ -97,7 +97,7 @@
   </entry>
   <entry>
     <title>无聊时在课上弄得python笔记(我可真无聊 turtle的垃圾教程</title>
-    <url>/c48ef0f6.html</url>
+    <url>//2021/c48ef0f6.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="这是一个笔记-turtle的垃圾教程"><a href="#这是一个笔记-turtle的垃圾教程" class="headerlink" title="这是一个笔记-turtle的垃圾教程"></a>这是一个笔记-turtle的垃圾教程</h1><p>1.画图-turtle</p>
 <p>类似</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">import turtle as t</span><br><span class="line">t.forward(12)</span><br><span class="line"># </span><br></pre></td></tr></table></figure>
@@ -153,7 +153,7 @@
   </entry>
   <entry>
     <title>2021.8.6 日记 晴</title>
-    <url>/87e1c0bc.html</url>
+    <url>//2021/87e1c0bc.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="2021-8-6-晴-星期五"><a href="#2021-8-6-晴-星期五" class="headerlink" title="2021.8.6  晴 星期五"></a>2021.8.6  晴 星期五</h1><h2 id="早晨"><a href="#早晨" class="headerlink" title="早晨"></a>早晨</h2><p>早晨依然是没有吃早饭</p>
 <p>早晨直接打开电脑看B站</p>
 <p>我的另一个手机上运行termux来着 安装了个alpine linux（proot容器）</p>
@@ -186,7 +186,7 @@
   </entry>
   <entry>
     <title>博客一周年总结</title>
-    <url>/5b2b3473.html</url>
+    <url>//2021/5b2b3473.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="一下子博客就一周年了耶"><a href="#一下子博客就一周年了耶" class="headerlink" title="一下子博客就一周年了耶"></a>一下子博客就一周年了耶</h1><p>其实也没有什么总结</p>
 <p>小学生的每一天都过得像流水账一样的</p>
 <p>一天天过着一样的生活 </p>
@@ -204,7 +204,7 @@
   </entry>
   <entry>
     <title>hexo博客源文件不使用github action托管（vercel)</title>
-    <url>/f053c80.html</url>
+    <url>//2021/f053c80.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="hexo博客源文件不使用github-action托管（vercel"><a href="#hexo博客源文件不使用github-action托管（vercel" class="headerlink" title="hexo博客源文件不使用github action托管（vercel)"></a>hexo博客源文件不使用github action托管（vercel)</h1><p>有些人都是用github action自動弄hexo博客 但是也有另一種方式</p>
 <p>（主要是github有時难访问 直接ssh上传还是比较方便的 这也是我发现的一种方法）</p>
 <h2 id="第一种方式"><a href="#第一种方式" class="headerlink" title="第一种方式"></a>第一种方式</h2><p>直接在vercel创建</p>
@@ -273,7 +273,7 @@
   </entry>
   <entry>
     <title>今天把undertale打完了😄</title>
-    <url>/a65bc6b8.html</url>
+    <url>//2021/a65bc6b8.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="我终于打通undertale了"><a href="#我终于打通undertale了" class="headerlink" title="我终于打通undertale了"></a>我终于打通undertale了</h1><p>这个文章只是记录一下我打通了ut而已 要是看一看也可以</p>
 <iframe src="//player.bilibili.com/player.html?aid=846084190&bvid=BV1454y1G7UW&cid=350843983&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
@@ -290,7 +290,7 @@
   </entry>
   <entry>
     <title>2021.6.8日记 晴</title>
-    <url>/aeb2d36.html</url>
+    <url>//2021/aeb2d36.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="2021-6-8日记-晴"><a href="#2021-6-8日记-晴" class="headerlink" title="2021.6.8日记 晴"></a>2021.6.8日记 晴</h1><h2 id="早上"><a href="#早上" class="headerlink" title="早上"></a>早上</h2><p>我一直想着弄一张电话卡来着<img src="https://gitee.com/wmz1024/pic2/raw/master/20210608150729.jpg"></p>
 <p>在超市买了四个咖喱牛肉包子 一袋酸梅汤 一袋豆奶 两根肠（不是肉的）－O－</p>
 <p>（不是我一个人吃 我又不是大胃王）<img src="https://gitee.com/wmz1024/pic2/raw/master/20210608150729.jpg" alt="doge">有一说一这个包子挺好吃 酸梅汤可能太酸了 肠有些硬😐</p>
@@ -317,7 +317,7 @@
   </entry>
   <entry>
     <title>服务器搭建动态网页</title>
-    <url>/c53c84e7.html</url>
+    <url>//2021/c53c84e7.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="使用服务器搭建动态网页（php-mysql）"><a href="#使用服务器搭建动态网页（php-mysql）" class="headerlink" title="使用服务器搭建动态网页（php+mysql）"></a>使用服务器搭建动态网页（php+mysql）</h1><h2 id="视频观看"><a href="#视频观看" class="headerlink" title="视频观看"></a>视频观看</h2><iframe src="//player.bilibili.com/player.html?aid=630675406&bvid=BV1Qb4y1f74e&cid=341981176&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 <p>视频和文章一起看特别有效果（就像是牛奶得和面包一起吃）</p>
@@ -390,7 +390,7 @@
   </entry>
   <entry>
     <title>缅怀！袁隆平逝世</title>
-    <url>/ee30bc12.html</url>
+    <url>//2021/ee30bc12.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="袁隆平逝世这件事"><a href="#袁隆平逝世这件事" class="headerlink" title="袁隆平逝世这件事"></a>袁隆平逝世这件事</h1><p>这件事也没什么好说的了 他是守着我们吃完午饭才去的</p>
 <p>致敬袁老，国士无双</p>
 <link rel="stylesheet" href="/css/bilicard.css" type="text/css">]]></content>
@@ -403,7 +403,7 @@
   </entry>
   <entry>
     <title>在hexo博客上使用aplayer-续集</title>
-    <url>/db5f4c9.html</url>
+    <url>//2021/db5f4c9.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="在hexo博客上使用aplayer-续集"><a href="#在hexo博客上使用aplayer-续集" class="headerlink" title="在hexo博客上使用aplayer-续集"></a>在hexo博客上使用aplayer-续集</h1><h2 id="为什么出续集"><a href="#为什么出续集" class="headerlink" title="为什么出续集"></a>为什么出续集</h2><p>为什么呢？</p>
 <p>因为不使用butterfly主题的人可就犯了难😟<code>内心：又水了文章</code></p>
 <p>怎么办呢</p>
@@ -432,7 +432,7 @@
   </entry>
   <entry>
     <title>在hexo博客上使用aplayer</title>
-    <url>/a8acdd67.html</url>
+    <url>//2021/a8acdd67.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="在hexo博客上使用aplayer"><a href="#在hexo博客上使用aplayer" class="headerlink" title="在hexo博客上使用aplayer"></a>在hexo博客上使用aplayer</h1><h2 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h2><p>因为以前我配置aplayer遇到了挺多难题的</p>
 <p>配置好之后 hexo s一看</p>
 <p>没问题啊😕</p>
@@ -466,7 +466,7 @@
   </entry>
   <entry>
     <title>html-教程 (3)</title>
-    <url>/dfd2f59a.html</url>
+    <url>//2021/dfd2f59a.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="教程-html-（3）"><a href="#教程-html-（3）" class="headerlink" title="教程-html （3）"></a>教程-html （3）</h1><p>这期教程是<del>杂乱的</del></p>
 <h2 id="如果使用html的标题"><a href="#如果使用html的标题" class="headerlink" title="如果使用html的标题"></a>如果使用html的标题</h2><p>我们最常用到的是<code>&lt;h1&gt;</code>标签<br>比如</p>
 <figure class="highlight html"><table><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">h1</span>&gt;</span>这是一个标题<span class="tag">&lt;/<span class="name">h1</span>&gt;</span>  <span class="tag">&lt;<span class="name">h2</span>&gt;</span>这是一个标题<span class="tag">&lt;/<span class="name">h2</span>&gt;</span>  <span class="tag">&lt;<span class="name">h3</span>&gt;</span>这是一个标题<span class="tag">&lt;/<span class="name">h3</span>&gt;</span></span><br></pre></td></tr></table></figure>
@@ -509,7 +509,7 @@
   </entry>
   <entry>
     <title>html-教程 (2)</title>
-    <url>/c6c9c4db.html</url>
+    <url>//2021/c6c9c4db.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="教程-html-（2）"><a href="#教程-html-（2）" class="headerlink" title="教程-html （2）"></a>教程-html （2）</h1><p>什么是html呢？<br>他的全称是<strong>H</strong>yper<strong>T</strong>ext <strong>M</strong>arkup<strong>L</strong>anguage<br>他的特点有</p>
 <ul>
 <li>不是编程语言 算标记语言</li>
@@ -534,7 +534,7 @@
   </entry>
   <entry>
     <title>html-教程 (1)</title>
-    <url>/ede49718.html</url>
+    <url>//2021/ede49718.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="教程-html-（1）"><a href="#教程-html-（1）" class="headerlink" title="教程-html （1）"></a>教程-html （1）</h1><p>没想到吧 我也来弄教程了<br>首先来认识一下html的扩展名</p>
 <ul>
 <li>.html</li>
@@ -555,7 +555,7 @@
   </entry>
   <entry>
     <title>密码测试</title>
-    <url>/d46f6783.html</url>
+    <url>//2021/d46f6783.html</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
   <script id="hbeData" type="hbeData" data-hmacdigest="6ab06f9485db8767bb1b8c89e16fe59f60394cbff710be7cb23067a3a2a58c93">5f7ea39efa352b128db3169a4aba07b58aa4c48320a478f8beb0bfd996d530482821b3ebeb94ad3fb5f910188fe6781d8b501c77fccb3dacc06d4d2559c72904b7a3c78031bc0f01e960cb42493a5ebeb94aa40a981555a5a9a5b31fd02abadf76dac00835685d923b5825b5f61491b7b3cc6db9f022f16bb192bccf0ac220666a9dfa4804ab6d8405493276c890726acb6f29d5097530fe396eba40a5cae4b8ca227e158ab6aa9f81659819ee78258f7acc7d4c096a788e17f8ab5b00bc097b94b4f1b46456ee3562327ec13eeb8e5504b6036379ddcbbc2c4ff2e3ab82340e0b2b2cae376cf6753d32747a0553409da6993a53df960141c8f7b0b5296eae657ac5e3f6b82fbf345d9c8d249e70461290db78492130491cdbf63cbcef0bb86038357ed4e4c33ac71f43b0d6fb068547</script>
   <div class="hbe hbe-content">
@@ -571,7 +571,7 @@
   </entry>
   <entry>
     <title>Hello World</title>
-    <url>/4a17b156.html</url>
+    <url>//2021/4a17b156.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
 
@@ -592,7 +592,7 @@
   </entry>
   <entry>
     <title>关于我对迷你世界和我的世界的看法</title>
-    <url>/2ee2518d.html</url>
+    <url>//2021/2ee2518d.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="关于我对迷你世界和我的世界的看法（1）"><a href="#关于我对迷你世界和我的世界的看法（1）" class="headerlink" title="关于我对迷你世界和我的世界的看法（1）"></a>关于我对迷你世界和我的世界的看法（1）</h1><h2 id="如果关心结果"><a href="#如果关心结果" class="headerlink" title="如果关心结果"></a>如果关心结果</h2><p>我只能说 我的世界赢了 剩下的继续看</p>
 <h2 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h2><p>在最近的2020 12月 31日</p>
 <p>网易给我们了一个新年礼物</p>
@@ -654,7 +654,7 @@
   </entry>
   <entry>
     <title>最近换了个评论系统 比之前的gitalk更好用</title>
-    <url>/3e4cf0e1.html</url>
+    <url>//2021/3e4cf0e1.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>更换成了Valine<br>相比之前的gitalk 会更快</p>
 <link rel="stylesheet" href="/css/bilicard.css" type="text/css">]]></content>
       <categories>
@@ -666,7 +666,7 @@
   </entry>
   <entry>
     <title>debian安装 博客突然坏了 补档</title>
-    <url>/49ab854f.html</url>
+    <url>//2021/49ab854f.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="linux-debian安装教程"><a href="#linux-debian安装教程" class="headerlink" title="linux|debian安装教程"></a>linux|debian安装教程</h1><h2 id="debian安装教程-视频"><a href="#debian安装教程-视频" class="headerlink" title="debian安装教程 | 视频"></a>debian安装教程 | 视频</h2><iframe src="//player.bilibili.com/player.html?aid=756316742&bvid=BV1mr4y1N7kX&cid=285332634&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 <h2 id="debian安装教程-文字-建议视频文字自行搭配"><a href="#debian安装教程-文字-建议视频文字自行搭配" class="headerlink" title="debian安装教程 | 文字 建议视频文字自行搭配"></a>debian安装教程 | 文字 建议视频文字自行搭配</h2><h3 id="第一步-下载镜像"><a href="#第一步-下载镜像" class="headerlink" title="第一步 下载镜像"></a>第一步 下载镜像</h3><p>我这里是虚拟机安装</p>
@@ -766,7 +766,7 @@
   </entry>
   <entry>
     <title>2020回顾 上</title>
-    <url>/2b244555.html</url>
+    <url>//2021/2b244555.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="2020-回顾"><a href="#2020-回顾" class="headerlink" title="2020 回顾"></a>2020 回顾</h1><p>我一开始弄这个网站 emmmmmmmmmm 感觉很难 这个博客连运行一年都没到</p>
 <p>我一开始弄得文章是20年8月7日写的</p>
 <p>文章内容什么也没写········</p>
@@ -800,7 +800,7 @@
   </entry>
   <entry>
     <title>安装一些基本的系统 1</title>
-    <url>/a81556f1.html</url>
+    <url>//2021/a81556f1.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="几天出一个所有基本电脑系统安装教程"><a href="#几天出一个所有基本电脑系统安装教程" class="headerlink" title="几天出一个所有基本电脑系统安装教程"></a>几天出一个所有基本电脑系统安装教程</h1><h2 id="windows-2000-安装"><a href="#windows-2000-安装" class="headerlink" title="windows 2000 安装"></a>windows 2000 安装</h2><h3 id="第一步-准备"><a href="#第一步-准备" class="headerlink" title="第一步 准备"></a>第一步 准备</h3><p>下载一个镜像 尽量在msdn下载</p>
 <p>下载完之后 我们插入镜像 开机</p>
 <h3 id="第二步-开机"><a href="#第二步-开机" class="headerlink" title="第二步 开机"></a>第二步 开机</h3><p>一开始会这样</p>
@@ -968,7 +968,7 @@
   </entry>
   <entry>
     <title>如何搭建自己的图床 gitee</title>
-    <url>/ab1d37b.html</url>
+    <url>//2021/ab1d37b.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="如何搭建一个自己的图床-Gitee版"><a href="#如何搭建一个自己的图床-Gitee版" class="headerlink" title="如何搭建一个自己的图床 Gitee版"></a>如何搭建一个自己的图床 Gitee版</h1><h2 id="第一步-准备"><a href="#第一步-准备" class="headerlink" title="第一步 准备"></a>第一步 准备</h2><h3 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h3><p>下载链接<a href="https://github.com/Molunerfinn/picgo/releases">here</a></p>
 <p>直链2.3.0-beta.4win<a href="https://github.com/Molunerfinn/PicGo/releases/download/v2.3.0-beta.4/PicGo-Setup-2.3.0-beta.4.exe">here</a></p>
 <h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><p>安装按照自己需求来</p>
@@ -1032,7 +1032,7 @@
   </entry>
   <entry>
     <title>安装debian</title>
-    <url>/af886b34.html</url>
+    <url>//2021/af886b34.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="linux-debian安装教程"><a href="#linux-debian安装教程" class="headerlink" title="linux|debian安装教程"></a>linux|debian安装教程</h1><h2 id="debian安装教程-视频"><a href="#debian安装教程-视频" class="headerlink" title="debian安装教程 | 视频"></a>debian安装教程 | 视频</h2><iframe src="//player.bilibili.com/player.html?aid=756316742&bvid=BV1mr4y1N7kX&cid=285332634&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 
@@ -1134,7 +1134,7 @@
   </entry>
   <entry>
     <title>iframe测试</title>
-    <url>/71e2d2d3.html</url>
+    <url>//2021/71e2d2d3.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="iframe测试"><a href="#iframe测试" class="headerlink" title="iframe测试"></a>iframe测试</h1><iframe src="https://bilibili.com" width="200" height="500"> 
 该网站使用了框架技术，但是您的浏览器不支持框架，请升级您的浏览器以便正常访问。 </iframe> 
 
@@ -1149,7 +1149,7 @@
   </entry>
   <entry>
     <title>电视源更新 在顶栏-工具-电视源 &lt;vlc也包括&gt;</title>
-    <url>/836982c.html</url>
+    <url>//2020/836982c.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><link rel="stylesheet" href="/css/bilicard.css" type="text/css">]]></content>
       <categories>
         <category>通知</category>
@@ -1157,7 +1157,7 @@
   </entry>
   <entry>
     <title>不给糖就捣蛋-好久没更新了啊（￢㉨￢）</title>
-    <url>/c1ee638c.html</url>
+    <url>//2020/c1ee638c.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><link rel="stylesheet" href="/css/bilicard.css" type="text/css">]]></content>
       <categories>
         <category>通知</category>
@@ -1165,7 +1165,7 @@
   </entry>
   <entry>
     <title>教你如何使用git和github-标签tag</title>
-    <url>/1f7e3876.html</url>
+    <url>//2020/1f7e3876.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="教你如何使用git和github-标签tag"><a href="#教你如何使用git和github-标签tag" class="headerlink" title="教你如何使用git和github-标签tag"></a>教你如何使用git和github-标签tag</h1><p>这个功能适合要频繁发布快照的人<br>如何新建tag呢 <code>git tag -a v1.0</code><br>如何写tag注释呢 推荐 <code>git tag -a</code><br>如果看以前新建的tag呢 <code>git log --decorate </code><br>如何查看你新建的所有tag <code>git tag</code></p>
 <link rel="stylesheet" href="/css/bilicard.css" type="text/css">]]></content>
       <categories>
@@ -1179,7 +1179,7 @@
   </entry>
   <entry>
     <title>教你如何使用github和git-分支branch</title>
-    <url>/fa1bfef3.html</url>
+    <url>//2020/fa1bfef3.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="教你如何使用git和github-分支branch"><a href="#教你如何使用git和github-分支branch" class="headerlink" title="教你如何使用git和github-分支branch"></a>教你如何使用git和github-分支branch</h1><p>在这里只能讲一件分支是什么了<br>在github里 分支就是<br>8848手机一样 双系统 资料分离一样<br>你可以一个放dev 别人更改就直接修改了<br>master就是稳定版</p>
 <h2 id="实践"><a href="#实践" class="headerlink" title="实践"></a>实践</h2><p>如何创建一个分支呢<br><code>git branch [branch-name]</code><br>[branch-name]表示分支的名字<br>如何切换呢<br><code>git checkout [branch-name]</code><br>[branch-name]表示分支的名字<br>无情的复制<br>如果你想看你新建了多少分支<br>那就看下面的吧<br>如何查看分支<br><code>git branch</code><br>可以列出所有分支<br>你想删除分支<br><code>git branch -d [b-n]</code><br>[b-n]表示分支名</p>
 <p>感觉水了一篇文章<br>提问<br>有多少个<code>分支</code></p>
@@ -1195,7 +1195,7 @@
   </entry>
   <entry>
     <title>教你如何使用github和git-克隆仓库</title>
-    <url>/c3119b08.html</url>
+    <url>//2020/c3119b08.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="教你如何使用git和github-克隆仓库"><a href="#教你如何使用git和github-克隆仓库" class="headerlink" title="教你如何使用git和github-克隆仓库"></a>教你如何使用git和github-克隆仓库</h1><p>其实我上一篇文章我就透露了 捏嘿嘿<br>克隆呢<br>就是把一个仓库 原封不动的复制到你的机器里面</p>
 <h2 id="ssh-克隆"><a href="#ssh-克隆" class="headerlink" title="ssh 克隆"></a>ssh 克隆</h2><p>ssh克隆需要先把ssh密钥给弄一下<br>教程晚上有<br>自己搜<br>之后输入 <code>git clone [url] </code><br>[url]表示 git ssh 地址<br>优点:私有仓库不用输密码，上传时不需要输密码<br>缺点:新手第一次弄会很难，仓库克隆时所有（不管是不是私有公开仓库）都需要ssh公钥在github部署</p>
 <h2 id="http克隆"><a href="#http克隆" class="headerlink" title="http克隆"></a>http克隆</h2><p>这个克隆方法比上一个比较简单？？？😶😑<br>输入 <code>git clone [url]</code><br>[url]表示 <a href="https://github.com/%E4%BD%A0%E7%9A%84%E7%94%A8%E6%88%B7%E5%90%8D/%E4%BD%A0%E7%9A%84%E4%BB%93%E5%BA%93.git">https://github.com/你的用户名/你的仓库.git</a><br>如果是私有仓库就需要输密码<br>优点:公有仓库不需要输密码，对新手也比较简单<br>缺点:上传需要输密码 克隆私有仓库也是</p>
@@ -1211,7 +1211,7 @@
   </entry>
   <entry>
     <title>教你如何使用git和github-上传</title>
-    <url>/748a29a4.html</url>
+    <url>//2020/748a29a4.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="教你如何用git和github-上传"><a href="#教你如何用git和github-上传" class="headerlink" title="教你如何用git和github-上传"></a>教你如何用git和github-上传</h1><p>对于github，git 开发者们一定很熟悉了<br>就是可以把你的代码上传到github上托管<br>灰常好用</p>
 <h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><p>安装个git<br>这个我在以前已经发了→_→<br>往下翻就好了<br>也可以点这个<a href="https://wmzwsa.xyz/8d39085b.html">链接</a><br>注册个github账号[贼简单 网上也有教程 我已经注册好了 一般打开<code>github</code>就让你注册&gt;]</p>
 <h2 id="简单的上传"><a href="#简单的上传" class="headerlink" title="简单的上传"></a>简单的上传</h2><ul>
@@ -1245,7 +1245,7 @@
   </entry>
   <entry>
     <title>工具更新-md编辑器</title>
-    <url>/f6485125.html</url>
+    <url>//2020/f6485125.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>我好像好久没更新文章了<br>准备这几天高产几波<br>毕竟10.1放假 😀<br> 地址 <a href="https://tool.wmzwsa.xyz/md">https://tool.wmzwsa.xyz/md</a><br>在本网站任务栏也有</p>
 <link rel="stylesheet" href="/css/bilicard.css" type="text/css">]]></content>
       <categories>
@@ -1260,8 +1260,8 @@
   </entry>
   <entry>
     <title>经过几天折腾 弄出了个邮箱 i@wmzwsa.xyz</title>
-    <url>/11f1a2fc.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="通知-lt-不算是吧-gt"><a href="#通知-lt-不算是吧-gt" class="headerlink" title="通知&lt;不算是吧&gt;"></a>通知&lt;不算是吧&gt;</h1><p>这几天经过几天的折腾<br>弄出来个邮箱<br>可以联系我<br><a href="mailto:&#x69;&#64;&#x77;&#x6d;&#x7a;&#119;&#x73;&#97;&#x2e;&#x78;&#x79;&#122;">&#x69;&#64;&#x77;&#x6d;&#x7a;&#119;&#x73;&#97;&#x2e;&#x78;&#x79;&#122;</a></p>
+    <url>//2020/11f1a2fc.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="通知-lt-不算是吧-gt"><a href="#通知-lt-不算是吧-gt" class="headerlink" title="通知&lt;不算是吧&gt;"></a>通知&lt;不算是吧&gt;</h1><p>这几天经过几天的折腾<br>弄出来个邮箱<br>可以联系我<br><a href="mailto:&#x69;&#64;&#119;&#x6d;&#122;&#x77;&#115;&#97;&#x2e;&#x78;&#121;&#122;">&#x69;&#64;&#119;&#x6d;&#122;&#x77;&#115;&#97;&#x2e;&#x78;&#121;&#122;</a></p>
 <link rel="stylesheet" href="/css/bilicard.css" type="text/css">]]></content>
       <categories>
         <category>通知</category>
@@ -1274,7 +1274,7 @@
   </entry>
   <entry>
     <title>github已经弄了ssh key但是上传还需要在上传的时候输入密码和账号</title>
-    <url>/68083ed.html</url>
+    <url>//2020/68083ed.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="github上传但是已经设置了ssh-key还要输入密码账号的解决办法"><a href="#github上传但是已经设置了ssh-key还要输入密码账号的解决办法" class="headerlink" title="github上传但是已经设置了ssh key还要输入密码账号的解决办法"></a>github上传但是已经设置了ssh key还要输入密码账号的解决办法</h1><h2 id="关于hexo"><a href="#关于hexo" class="headerlink" title="关于hexo"></a>关于hexo</h2><p>hexo博客的话<br>在博客根目录<br><a href="https://github.com/%E4%BD%A0%E7%9A%84github%E5%90%8D%E5%AD%97/%E4%BD%A0%E7%9A%84github%E4%BB%93%E5%BA%93.git%E6%94%B9%E6%88%90">https://github.com/你的github名字/你的github仓库.git改成</a> git@github.com:用户名/仓库名.git<br>这样就不用了</p>
 <h2 id="关于在本地的仓库"><a href="#关于在本地的仓库" class="headerlink" title="关于在本地的仓库"></a>关于在本地的仓库</h2><p>在仓库根目录<br>输入</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">git remote remove origin</span><br><span class="line">git remote add origin git@github.com:用户名&#x2F;仓库名.git</span><br></pre></td></tr></table></figure>
@@ -1291,7 +1291,7 @@
   </entry>
   <entry>
     <title>如何给hexo博客增加百度统计</title>
-    <url>/8bc291e6.html</url>
+    <url>//2020/8bc291e6.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="如何给hexo博客增加百度统计"><a href="#如何给hexo博客增加百度统计" class="headerlink" title="如何给hexo博客增加百度统计"></a>如何给hexo博客增加百度统计</h1><p>这个教程不是在每个页面加代码<br>绝对不是<br>如果真的是<br>会累死人的</p>
 <p>本教程适应所有主题&lt;可能吧&gt;<br>cd 你博客目录/themes/你的主题/layout/_partial<br>新建一个叫<code>baidu_tongji</code>的文件<br>编辑一下内容</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;% if (theme.baidu_tongji) &#123; %&gt;</span><br><span class="line">&lt;script type&#x3D;&quot;text&#x2F;javascript&quot;&gt;#申请的百度统计代码&lt;&#x2F;script&gt;&lt;% &#125; %</span><br></pre></td></tr></table></figure>
@@ -1307,7 +1307,7 @@
   </entry>
   <entry>
     <title>更新了在线聊天</title>
-    <url>/cd843bca.html</url>
+    <url>//2020/cd843bca.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="更新了在线聊天"><a href="#更新了在线聊天" class="headerlink" title="更新了在线聊天"></a>更新了在线聊天</h1><p>daovoice 开始阅读的界面就可以找到一个聊天的圆圈<br>就可以找我聊了<br>如果我不在<br>那就是不在<br>开学<br>😀</p>
 <link rel="stylesheet" href="/css/bilicard.css" type="text/css">]]></content>
       <categories>
@@ -1321,7 +1321,7 @@
   </entry>
   <entry>
     <title>安装git</title>
-    <url>/8d39085b.html</url>
+    <url>//2020/8d39085b.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="如何安装git"><a href="#如何安装git" class="headerlink" title="如何安装git"></a>如何安装git</h1><p>uh 这都不会安装 但是u1s1 在国内除非你找taobao镜像 不然下载都是个难题</p>
 <h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><h3 id="windows"><a href="#windows" class="headerlink" title="windows"></a>windows</h3><p>首先下载<code>git</code><br>众所周知git下载服务器在国外<br>众所周知还有npm镜像<br>哈<br>下载:<a href="https://npm.taobao.org/mirrors/git-for-windows/">here</a><br>降序排列 最底下的是最高版本<br>这里以<a href="https://npm.taobao.org/mirrors/git-for-windows/v2.28.0.windows.1/Git-2.28.0-64-bit.exe">2.28.0</a>版本为例<br>下载好按照他的步骤就好了<br>之后就可以使用了</p>
 <h2 id="liunx"><a href="#liunx" class="headerlink" title="liunx"></a>liunx</h2><p>liunx可真是个大类呢</p>
@@ -1343,7 +1343,7 @@
   </entry>
   <entry>
     <title>通知9.7</title>
-    <url>/d2bd8f46.html</url>
+    <url>//2020/d2bd8f46.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="通知-把网站cdn改成cloudflare"><a href="#通知-把网站cdn改成cloudflare" class="headerlink" title="通知:把网站cdn改成cloudflare"></a>通知:把网站cdn改成cloudflare</h1><p>最近把网站弄了个cdn 最近几天vercel上老是显示不行 uh<br>所以网站出现问题的时候能帮帮忙就行<br>汇报的话送个2级域名</p>
 <link rel="stylesheet" href="/css/bilicard.css" type="text/css">]]></content>
       <categories>
@@ -1355,7 +1355,7 @@
   </entry>
   <entry>
     <title>如何使用github hexo git vercel搭建网站完整版</title>
-    <url>/51f11683.html</url>
+    <url>//2020/51f11683.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="如何使用github-hexo-git-vercel弄一个hexo博客-lt-重制版"><a href="#如何使用github-hexo-git-vercel弄一个hexo博客-lt-重制版" class="headerlink" title="如何使用github+hexo+git+vercel弄一个hexo博客&lt;重制版"></a>如何使用github+hexo+git+vercel弄一个hexo博客&lt;重制版</h1><p>为什么又出来了一个<br>因为上一个太烂<br>估计看那个教程的都不行</p>
 <h2 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h2><p>git<br>电脑<br>vercel账号<br>github账号</p>
 <p>vercel其实不用搞 他只是加速的</p>
@@ -1404,7 +1404,7 @@
   </entry>
   <entry>
     <title>wmz blog更新了 版本3.0</title>
-    <url>/6057642a.html</url>
+    <url>//2020/6057642a.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="wmz-blog更新了啊"><a href="#wmz-blog更新了啊" class="headerlink" title="wmz blog更新了啊"></a>wmz blog更新了啊</h1><h2 id="全新版本"><a href="#全新版本" class="headerlink" title="全新版本"></a>全新版本</h2><p>不会出现吸一些奇奇怪怪的bug</p>
 <h2 id="更新的内容"><a href="#更新的内容" class="headerlink" title="更新的内容"></a>更新的内容</h2><p>修复了bug</p>
 <h2 id="download-amp-下载"><a href="#download-amp-下载" class="headerlink" title="download &amp;下载"></a>download &amp;下载</h2><p>下载地址：<br>直链下载<a href="https://mirrors.wmzwsa.xyz/wmz%20blog%E7%B3%BB%E5%88%97/wmz%20blog_3.0.apk">here</a><br>系列下载<a href="https://mirrors.wmzwsa.xyz/wmz%20blog%E7%B3%BB%E5%88%97">here</a><br>网盘分流 暂时没有</p>
@@ -1419,7 +1419,7 @@
   </entry>
   <entry>
     <title>如何使用github hexo git vercel搭建博客&lt;重制版 上&gt;</title>
-    <url>/7cee40bf.html</url>
+    <url>//2020/7cee40bf.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="如何使用github-hexo-git-vercel弄一个hexo博客-lt-重制版-上"><a href="#如何使用github-hexo-git-vercel弄一个hexo博客-lt-重制版-上" class="headerlink" title="如何使用github+hexo+git+vercel弄一个hexo博客&lt;重制版 上"></a>如何使用github+hexo+git+vercel弄一个hexo博客&lt;重制版 上</h1><p>为什么又出来了一个<br>因为上一个太烂<br>估计看那个教程的都不行</p>
 <h2 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h2><p>git<br>电脑<br>vercel账号<br>github账号</p>
 <p>vercel其实不用搞 他只是加速的</p>
@@ -1457,7 +1457,7 @@
   </entry>
   <entry>
     <title>最近这个又出来一个hello world 淦</title>
-    <url>/83d82948.html</url>
+    <url>//2020/83d82948.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><link rel="stylesheet" href="/css/bilicard.css" type="text/css">]]></content>
       <categories>
         <category>通知</category>
@@ -1465,7 +1465,7 @@
   </entry>
   <entry>
     <title>termux安装&amp;安装完整linux</title>
-    <url>/4283e7c2.html</url>
+    <url>//2020/4283e7c2.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="termux安装-amp-使用教程"><a href="#termux安装-amp-使用教程" class="headerlink" title="termux安装&amp;使用教程"></a>termux安装&amp;使用教程</h1><h2 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h2><p>手机一个<br>termux软件一个</p>
 <h2 id="下载termux"><a href="#下载termux" class="headerlink" title="下载termux"></a>下载termux</h2><p>这里首先推荐f-droid的<a href="https://f-droid.org/packages/com.termux/">安装包</a><br>他是完整的 而且还不用翻墙<br>酷安和谷歌商店<br>酷安的不完整<br>容易出现</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Ubable to install</span><br><span class="line">Termux was unable to install the bootstrap packages.Check your network connection and try again.</span><br></pre></td></tr></table></figure>
@@ -1500,7 +1500,7 @@
   </entry>
   <entry>
     <title>使用Windows10搭建minecraft JE服务器</title>
-    <url>/98d114e8.html</url>
+    <url>//2020/98d114e8.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="如何使用Windows电脑开个minecraft-JE服务器"><a href="#如何使用Windows电脑开个minecraft-JE服务器" class="headerlink" title="如何使用Windows电脑开个minecraft JE服务器"></a>如何使用Windows电脑开个minecraft JE服务器</h1><h2 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h2><p>一个电脑 RAM2GB以上<br>一个<a href="natfrp.com">内网穿透</a>账号 有公网这个当我没说</p>
 <h2 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h2><h2 id="第一步-lt-安装过java的人请忽略-gt"><a href="#第一步-lt-安装过java的人请忽略-gt" class="headerlink" title="第一步&lt;安装过java的人请忽略&gt;"></a>第一步&lt;安装过java的人请忽略&gt;</h2><p>安装个<a href="java.com">java</a><br>下载就行了<br>安装之后<br>右击此电脑<br>点击属性<br>点击高级系统设置<br>点击环境变量<br>在系统变量的一栏里<br>新建一个变量<br>叫<code>JAVA_HOME</code><br>添加你的java安装路径<br>之后找到path变量&lt;忽略大小写，如果没有此变量请新建&gt;<br>改成 %JAVA_HOME%\bin; %JAVA_HOME%\jre\bin<br>找到classpath 没有就新建 不注意大小写<br>添加 .;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\tools.jar<br>之后 打开cmd<br>输入<code> java</code><br>之后不显示没有此命令代表可以了</p>
 <h2 id="第二步"><a href="#第二步" class="headerlink" title="第二步"></a>第二步</h2><p>首先前往<a href="https://launcher.mojang.com/v1/objects/c5f6fb23c3876461d46ec380421e42b289789530/server.jar">这里</a>下载一个<code>server.jar</code><br>在一个随便的目录新建一个文件夹&lt;最好是英文文件夹 不然会很惨 &gt;<br>之后打开<br>把<code>server.jar</code>移动到此文件夹<br>之后打开<code>powershell</code><br>cd 到你的目录<br>输入</p>
@@ -1529,7 +1529,7 @@
   </entry>
   <entry>
     <title>下载B站视频的几个方法</title>
-    <url>/2c7854e6.html</url>
+    <url>//2020/2c7854e6.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="下载B站视频的几个方法"><a href="#下载B站视频的几个方法" class="headerlink" title="下载B站视频的几个方法"></a>下载B站视频的几个方法</h1><h2 id="方法一"><a href="#方法一" class="headerlink" title="方法一"></a>方法一</h2><p>下载一个<code>夸克浏览器</code>&lt;我没在打广告&gt;<br>之后UA改成PC<br>放问你要下载视频的网站 &lt;B站&gt;<br>之后点击视频<br>点击 <code>下载图标</code><br>下载就好了<br>优点:各大视频网站应该都可以用上这个方法<br>缺点: 声音和视频不是分开的</p>
 <h1 id="方法二"><a href="#方法二" class="headerlink" title="方法二"></a>方法二</h1><p>仅限B站手机app<br>找到你要的视频&lt;手机&gt;<br><img src="https://gitee.com/wmz1024/dl/raw/master/Screenshot_20200824_200551_tv.danmaku.bili.jpg" alt="1s"><br>特意选的地精 &lt;滑稽&gt;<br>缓存<br>之后找到下载目录<br><img src="https://gitee.com/wmz1024/dl/raw/master/Screenshot_20200824_200940_com.android.documentsui.jpg" alt="2s"><br>把<code>video.m4v</code>改成<code>video.mp4</code><br>把<code>audio.m4v</code>改成<code>audio.mp3</code><br>好处:音和影分离了<br>坏处:因为是直接更改后缀名 有些播放器可以纠正错误并播放 有些就不会纠正 直接闪退</p>
 <link rel="stylesheet" href="/css/bilicard.css" type="text/css">]]></content>
@@ -1543,7 +1543,7 @@
   </entry>
   <entry>
     <title>github下载慢</title>
-    <url>/e4d07d47.html</url>
+    <url>//2020/e4d07d47.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="github下载特慢-解决方式在这"><a href="#github下载特慢-解决方式在这" class="headerlink" title="github下载特慢 解决方式在这"></a>github下载特慢 解决方式在这</h1><h2 id="方法一"><a href="#方法一" class="headerlink" title="方法一"></a>方法一</h2><p>github下载肯定慢啊 脑袋长残了？ 直接指向亚马逊 亚马逊在中国就是慢<br>改hotst 指向香港<br>· Windows<br>前往C:/Windows/system/drivers/etc/hosts 里面<br>在文件里加</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">219.76.4.4 github-cloud.s3.amazonaws.com</span><br></pre></td></tr></table></figure>
 <p>· mac<br>你都这么有钱了 不会开vpn<br>黑苹果orlinux<br>执行 sudo vi /etc/hosts<br>添加</p>
@@ -1564,7 +1564,7 @@
   </entry>
   <entry>
     <title>wmz blog应用版2.0出来了 做了些其他的东西</title>
-    <url>/60816787.html</url>
+    <url>//2020/60816787.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><link rel="stylesheet" href="/css/bilicard.css" type="text/css">]]></content>
       <categories>
         <category>通知</category>
@@ -1576,7 +1576,7 @@
   </entry>
   <entry>
     <title>uh 淦</title>
-    <url>/da033cd3.html</url>
+    <url>//2020/da033cd3.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><link rel="stylesheet" href="/css/bilicard.css" type="text/css">]]></content>
       <categories>
         <category>通知</category>
@@ -1584,7 +1584,7 @@
   </entry>
   <entry>
     <title>如何使用fusionapp做个应用</title>
-    <url>/a1be303c.html</url>
+    <url>//2020/a1be303c.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="如何使用FA做一个软件"><a href="#如何使用FA做一个软件" class="headerlink" title="如何使用FA做一个软件"></a>如何使用FA<fusionapp>做一个软件</h1><p>上一次在资源里面找不到博客软件[点我](<a href="https://wmz.clh.works//resourceswmz">https://wmz.clh.works//resourceswmz</a> blog_1.0.apk)</p>
 <h2 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h2><p>一个网站 gitee page也行<br>一台手机</p>
 <h2 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h2><p><img src="https://gitee.com/wmz1024/dl/raw/master/Screenshot_20200820_092732_cn.coldsong.fusionapp.jpg" alt="第一步"><br>因为我已经做了个应用别在意<br>点击右下角的+号<br><img src="https://gitee.com/wmz1024/dl/raw/master/Screenshot_20200820_092751_cn.coldsong.fusionapp.jpg" alt="第二步"><br>随便选一个 我这里就选第一个了<br>选好之后点击你想选的一栏找到创建<br><img src="https://gitee.com/wmz1024/dl/raw/master/Screenshot_20200820_092820_cn.coldsong.fusionapp.jpg" alt="第三步"><br>输入名字<br>包名<br>启动网页<br>建议打开网页沉浸 这个功能挺香的<br><img src="https://gitee.com/wmz1024/dl/raw/master/Screenshot_20200820_092859_cn.coldsong.fusionapp.jpg" alt="第四步"><br>不填也行<br><img src="https://gitee.com/wmz1024/dl/raw/master/Screenshot_20200820_092918_cn.coldsong.fusionapp.jpg" alt="最后一步"><br>点击右上角的<br>· ————<br> · ————<br> · ———— &lt;抽象吧&gt;<br>   之后点击打包安装</p>
@@ -1603,7 +1603,7 @@
   </entry>
   <entry>
     <title>随笔有什么用？</title>
-    <url>/47008bfe.html</url>
+    <url>//2020/47008bfe.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>没有什么用吧</p>
 <link rel="stylesheet" href="/css/bilicard.css" type="text/css">]]></content>
       <categories>
@@ -1615,7 +1615,7 @@
   </entry>
   <entry>
     <title>出了博客应用版 使用FA制作</title>
-    <url>/aa96c821.html</url>
+    <url>//2020/aa96c821.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>在资源下载</p>
 <link rel="stylesheet" href="/css/bilicard.css" type="text/css">]]></content>
       <categories>
@@ -1629,7 +1629,7 @@
   </entry>
   <entry>
     <title>termux真香</title>
-    <url>/3494bf09.html</url>
+    <url>//2020/3494bf09.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>以后用termux写文章</p>
 <link rel="stylesheet" href="/css/bilicard.css" type="text/css">]]></content>
       <categories>
@@ -1642,7 +1642,7 @@
   </entry>
   <entry>
     <title>如何使用CFW做到免翻墙访问谷歌等网站</title>
-    <url>/b28868d6.html</url>
+    <url>//2020/b28868d6.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="如果没有梯子访问谷歌等网站"><a href="#如果没有梯子访问谷歌等网站" class="headerlink" title="如果没有梯子访问谷歌等网站"></a>如果没有梯子访问谷歌等网站</h1><p>首先需要一个CF账号 自己注册下子就好<br>之后去<a href="dash.cloudflare.com">这里</a><br>点击worker选项<br>之后新建一个worker<br>之后输入以下代码</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#39;use strict&#39;</span><br><span class="line">&#x2F;** * static files (404.html, sw.js, conf.js) *&#x2F;const ASSET_URL &#x3D; &#39;https:&#x2F;&#x2F;etherdream.github.io&#x2F;jsproxy&#39;const JS_VER &#x3D; 10const MAX_RETRY &#x3D; 1&#x2F;** @type &#123;RequestInit&#125; *&#x2F;const PREFLIGHT_INIT &#x3D; &#123;  status: 204,  headers: new Headers(&#123;    &#39;access-control-allow-origin&#39;: &#39;*&#39;,    &#39;access-control-allow-methods&#39;: &#39;GET,POST,PUT,PATCH,TRACE,DELETE,HEAD,OPTIONS&#39;,    &#39;access-control-max-age&#39;: &#39;1728000&#39;,  &#125;),&#125;&#x2F;** * @param &#123;any&#125; body * @param &#123;number&#125; status * @param &#123;Object&lt;string, string&gt;&#125; headers *&#x2F;function makeRes(body, status &#x3D; 200, headers &#x3D; &#123;&#125;) &#123;  headers[&#39;--ver&#39;] &#x3D; JS_VER  headers[&#39;access-control-allow-origin&#39;] &#x3D; &#39;*&#39;  return new Response(body, &#123;status, headers&#125;)&#125;&#x2F;** * @param &#123;string&#125; urlStr  *&#x2F;function newUrl(urlStr) &#123;  try &#123;    return new URL(urlStr)  &#125; catch (err) &#123;    return null  &#125;&#125;addEventListener(&#39;fetch&#39;, e &#x3D;&gt; &#123;  const ret &#x3D; fetchHandler(e)    .catch(err &#x3D;&gt; makeRes(&#39;cfworker error:\n&#39; + err.stack, 502))  e.respondWith(ret)&#125;)&#x2F;** * @param &#123;FetchEvent&#125; e  *&#x2F;async function fetchHandler(e) &#123;  const req &#x3D; e.request  const urlStr &#x3D; req.url  const urlObj &#x3D; new URL(urlStr)  const path &#x3D; urlObj.href.substr(urlObj.origin.length)  if (urlObj.protocol &#x3D;&#x3D;&#x3D; &#39;http:&#39;) &#123;    urlObj.protocol &#x3D; &#39;https:&#39;    return makeRes(&#39;&#39;, 301, &#123;      &#39;strict-transport-security&#39;: &#39;max-age&#x3D;99999999; includeSubDomains; preload&#39;,      &#39;location&#39;: urlObj.href,    &#125;)  &#125;  if (path.startsWith(&#39;&#x2F;http&#x2F;&#39;)) &#123;    return httpHandler(req, path.substr(6))  &#125;  switch (path) &#123;  case &#39;&#x2F;http&#39;:    return makeRes(&#39;请更新 cfworker 到最新版本!&#39;)  case &#39;&#x2F;ws&#39;:    return makeRes(&#39;not support&#39;, 400)  case &#39;&#x2F;works&#39;:    return makeRes(&#39;it works&#39;)  default:    &#x2F;&#x2F; static files    return fetch(ASSET_URL + path)  &#125;&#125;&#x2F;** * @param &#123;Request&#125; req * @param &#123;string&#125; pathname *&#x2F;function httpHandler(req, pathname) &#123;  const reqHdrRaw &#x3D; req.headers  if (reqHdrRaw.has(&#39;x-jsproxy&#39;)) &#123;    return Response.error()  &#125;  &#x2F;&#x2F; preflight  if (req.method &#x3D;&#x3D;&#x3D; &#39;OPTIONS&#39; &amp;&amp;      reqHdrRaw.has(&#39;access-control-request-headers&#39;)  ) &#123;    return new Response(null, PREFLIGHT_INIT)  &#125;  let acehOld &#x3D; false  let rawSvr &#x3D; &#39;&#39;  let rawLen &#x3D; &#39;&#39;  let rawEtag &#x3D; &#39;&#39;  const reqHdrNew &#x3D; new Headers(reqHdrRaw)  reqHdrNew.set(&#39;x-jsproxy&#39;, &#39;1&#39;)  &#x2F;&#x2F; 此处逻辑和 http-dec-req-hdr.lua 大致相同  &#x2F;&#x2F; https:&#x2F;&#x2F;github.com&#x2F;EtherDream&#x2F;jsproxy&#x2F;blob&#x2F;master&#x2F;lua&#x2F;http-dec-req-hdr.lua  const refer &#x3D; reqHdrNew.get(&#39;referer&#39;)  const query &#x3D; refer.substr(refer.indexOf(&#39;?&#39;) + 1)  if (!query) &#123;    return makeRes(&#39;missing params&#39;, 403)  &#125;  const param &#x3D; new URLSearchParams(query)  for (const [k, v] of Object.entries(param)) &#123;    if (k.substr(0, 2) &#x3D;&#x3D;&#x3D; &#39;--&#39;) &#123;      &#x2F;&#x2F; 系统信息      switch (k.substr(2)) &#123;      case &#39;aceh&#39;:        acehOld &#x3D; true        break      case &#39;raw-info&#39;:        [rawSvr, rawLen, rawEtag] &#x3D; v.split(&#39;|&#39;)        break      &#125;    &#125; else &#123;      &#x2F;&#x2F; 还原 HTTP 请求头      if (v) &#123;        reqHdrNew.set(k, v)      &#125; else &#123;        reqHdrNew.delete(k)      &#125;    &#125;  &#125;  if (!param.has(&#39;referer&#39;)) &#123;    reqHdrNew.delete(&#39;referer&#39;)  &#125;  &#x2F;&#x2F; cfworker 会把路径中的 &#96;&#x2F;&#x2F;&#96; 合并成 &#96;&#x2F;&#96;  const urlStr &#x3D; pathname.replace(&#x2F;^(https?):\&#x2F;+&#x2F;, &#39;$1:&#x2F;&#x2F;&#39;)  const urlObj &#x3D; newUrl(urlStr)  if (!urlObj) &#123;    return makeRes(&#39;invalid proxy url: &#39; + urlStr, 403)  &#125;  &#x2F;** @type &#123;RequestInit&#125; *&#x2F;  const reqInit &#x3D; &#123;    method: req.method,    headers: reqHdrNew,    redirect: &#39;manual&#39;,  &#125;  if (req.method &#x3D;&#x3D;&#x3D; &#39;POST&#39;) &#123;    reqInit.body &#x3D; req.body  &#125;  return proxy(urlObj, reqInit, acehOld, rawLen, 0)&#125;&#x2F;** *  * @param &#123;URL&#125; urlObj  * @param &#123;RequestInit&#125; reqInit  * @param &#123;number&#125; retryTimes  *&#x2F;async function proxy(urlObj, reqInit, acehOld, rawLen, retryTimes) &#123;  const res &#x3D; await fetch(urlObj.href, reqInit)  const resHdrOld &#x3D; res.headers  const resHdrNew &#x3D; new Headers(resHdrOld)  let expose &#x3D; &#39;*&#39;    for (const [k, v] of resHdrOld.entries()) &#123;    if (k &#x3D;&#x3D;&#x3D; &#39;access-control-allow-origin&#39; ||        k &#x3D;&#x3D;&#x3D; &#39;access-control-expose-headers&#39; ||        k &#x3D;&#x3D;&#x3D; &#39;location&#39; ||        k &#x3D;&#x3D;&#x3D; &#39;set-cookie&#39;    ) &#123;      const x &#x3D; &#39;--&#39; + k      resHdrNew.set(x, v)      if (acehOld) &#123;        expose &#x3D; expose + &#39;,&#39; + x      &#125;      resHdrNew.delete(k)    &#125;    else if (acehOld &amp;&amp;      k !&#x3D;&#x3D; &#39;cache-control&#39; &amp;&amp;      k !&#x3D;&#x3D; &#39;content-language&#39; &amp;&amp;      k !&#x3D;&#x3D; &#39;content-type&#39; &amp;&amp;      k !&#x3D;&#x3D; &#39;expires&#39; &amp;&amp;      k !&#x3D;&#x3D; &#39;last-modified&#39; &amp;&amp;      k !&#x3D;&#x3D; &#39;pragma&#39;    ) &#123;      expose &#x3D; expose + &#39;,&#39; + k    &#125;  &#125;  if (acehOld) &#123;    expose &#x3D; expose + &#39;,--s&#39;    resHdrNew.set(&#39;--t&#39;, &#39;1&#39;)  &#125;  &#x2F;&#x2F; verify  if (rawLen) &#123;    const newLen &#x3D; resHdrOld.get(&#39;content-length&#39;) || &#39;&#39;    const badLen &#x3D; (rawLen !&#x3D;&#x3D; newLen)    if (badLen) &#123;      if (retryTimes &lt; MAX_RETRY) &#123;        urlObj &#x3D; await parseYtVideoRedir(urlObj, newLen, res)        if (urlObj) &#123;          return proxy(urlObj, reqInit, acehOld, rawLen, retryTimes + 1)        &#125;      &#125;      return makeRes(res.body, 400, &#123;        &#39;--error&#39;: &#96;bad len: $&#123;newLen&#125;, except: $&#123;rawLen&#125;&#96;,        &#39;access-control-expose-headers&#39;: &#39;--error&#39;,      &#125;)    &#125;    if (retryTimes &gt; 1) &#123;      resHdrNew.set(&#39;--retry&#39;, retryTimes)    &#125;  &#125;  let status &#x3D; res.status  resHdrNew.set(&#39;access-control-expose-headers&#39;, expose)  resHdrNew.set(&#39;access-control-allow-origin&#39;, &#39;*&#39;)  resHdrNew.set(&#39;--s&#39;, status)  resHdrNew.set(&#39;--ver&#39;, JS_VER)  resHdrNew.delete(&#39;content-security-policy&#39;)  resHdrNew.delete(&#39;content-security-policy-report-only&#39;)  resHdrNew.delete(&#39;clear-site-data&#39;)  if (status &#x3D;&#x3D;&#x3D; 301 ||      status &#x3D;&#x3D;&#x3D; 302 ||      status &#x3D;&#x3D;&#x3D; 303 ||      status &#x3D;&#x3D;&#x3D; 307 ||      status &#x3D;&#x3D;&#x3D; 308  ) &#123;    status &#x3D; status + 10  &#125;  return new Response(res.body, &#123;    status,    headers: resHdrNew,  &#125;)&#125;&#x2F;** * @param &#123;URL&#125; urlObj  *&#x2F;function isYtUrl(urlObj) &#123;  return (    urlObj.host.endsWith(&#39;.googlevideo.com&#39;) &amp;&amp;    urlObj.pathname.startsWith(&#39;&#x2F;videoplayback&#39;)  )&#125;&#x2F;** * @param &#123;URL&#125; urlObj  * @param &#123;number&#125; newLen  * @param &#123;Response&#125; res  *&#x2F;async function parseYtVideoRedir(urlObj, newLen, res) &#123;  if (newLen &gt; 2000) &#123;    return null  &#125;  if (!isYtUrl(urlObj)) &#123;    return null  &#125;  try &#123;    const data &#x3D; await res.text()    urlObj &#x3D; new URL(data)  &#125; catch (err) &#123;    return null  &#125;  if (!isYtUrl(urlObj)) &#123;    return null  &#125;  return urlObj&#125;</span><br></pre></td></tr></table></figure>
 <p>感觉代码好多<br>之后部署<br>访问网址一般是 xxx.xx x.workers. dev<br>访问我的也可 一天不要访问太多次<br><a href="http://v.wmzh.workers.dev/">http://v.wmzh.workers.dev</a><br>CF服务器本来就在外国 所以肯定慢</p>
@@ -1660,7 +1660,7 @@
   </entry>
   <entry>
     <title>使用giteepage做一个网页</title>
-    <url>/9341b494.html</url>
+    <url>//2020/9341b494.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="如何使用gitee-page做一个网页"><a href="#如何使用gitee-page做一个网页" class="headerlink" title="如何使用gitee page做一个网页"></a>如何使用gitee page做一个网页</h1><h2 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h2><p>gitee账号一个<br>电脑一个&lt;手机也行的&gt;</p>
 <h2 id="没错-我把这个github转移到了gitee-所以访问这么快"><a href="#没错-我把这个github转移到了gitee-所以访问这么快" class="headerlink" title="没错 我把这个github转移到了gitee 所以访问这么快"></a>没错 我把这个github转移到了gitee 所以访问这么快</h2><h2 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h2><h1 id="第一步"><a href="#第一步" class="headerlink" title="第一步"></a>第一步</h1><p>首先 新建一个库<br>没电脑的痛苦 我就用手机了<br><img src="https://s1.ax1x.com/2020/08/11/aLF5xs.jpg" alt="第一步第一个图片"><br>之后新建<br>举得勾选<code>readme</code><br>之后就到了这个页面<br><img src="https://s1.ax1x.com/2020/08/11/aLnJAI.jpg" alt="2"><br>点击文件<br>之后再点击新建文件<br>名字要写<code>index.html</code><br>如果你没代码可以写我的</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&lt;!DOCTYPE html&gt;</span><br><span class="line">&lt;html&gt;&lt;head&gt;    &lt;meta charset&#x3D;&quot;UTF-8&quot;&gt;&lt;&#x2F;head&gt;&lt;body&gt;&lt;h1&gt;看到这个说明你的网页可以正常访问&lt;&#x2F;body&gt;&lt;&#x2F;html&gt;</span><br></pre></td></tr></table></figure>
@@ -1677,7 +1677,7 @@
   </entry>
   <entry>
     <title>这个gitee page真好用</title>
-    <url>/bf3a65a4.html</url>
+    <url>//2020/bf3a65a4.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><link rel="stylesheet" href="/css/bilicard.css" type="text/css">]]></content>
       <categories>
         <category>通知</category>
@@ -1685,7 +1685,7 @@
   </entry>
   <entry>
     <title>gitee转移成功 如果显示确实node.js请访问https://wmz1024.gitee.io</title>
-    <url>/d28a09fd.html</url>
+    <url>//2020/d28a09fd.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><link rel="stylesheet" href="/css/bilicard.css" type="text/css">]]></content>
       <categories>
         <category>通知</category>
@@ -1693,7 +1693,7 @@
   </entry>
   <entry>
     <title>转移到了gitee</title>
-    <url>/7bc26341.html</url>
+    <url>//2020/7bc26341.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><link rel="stylesheet" href="/css/bilicard.css" type="text/css">]]></content>
       <categories>
         <category>通知</category>
@@ -1701,7 +1701,7 @@
   </entry>
   <entry>
     <title>如何用Android手机玩JE版minecraft</title>
-    <url>/496761e5.html</url>
+    <url>//2020/496761e5.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="如何使用Android手机来玩JAVA版minecraft"><a href="#如何使用Android手机来玩JAVA版minecraft" class="headerlink" title="如何使用Android手机来玩JAVA版minecraft"></a>如何使用Android手机来玩<JE>JAVA版minecraft</h1><h2 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h2><p>手机一个&lt;运存建议4GB以上&gt;<br>人一个</p>
 <h3 id="准备-其他的东西"><a href="#准备-其他的东西" class="headerlink" title="准备_其他的东西"></a>准备_其他的东西</h3><p>没有苹果的 苹果玩什么都要钱<br>害</p>
 <h2 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h2><h3 id="第一步"><a href="#第一步" class="headerlink" title="第一步"></a>第一步</h3><p>下载一个叫MCinabox的安装包 由于服务器在国外<br>直接给个链接吧|<a href="https://wmz1024.lanzous.com/tp/i2m5zfh8ocb">点我下载安装包</a><br>安装<br>安装之后打开<br>打开之后<br>等一会之后<br>立马出来</p>
@@ -1727,7 +1727,7 @@
   </entry>
   <entry>
     <title>如何安装一个纯净的Windows10</title>
-    <url>/fe275fd0.html</url>
+    <url>//2020/fe275fd0.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="如何安装个纯净Windows10系统"><a href="#如何安装个纯净Windows10系统" class="headerlink" title="如何安装个纯净Windows10系统"></a>如何安装个纯净Windows10系统</h1><p>我以为这年头应该没人不知道怎么重装了<br>但是重装的都有流氓软件<br><a href="https://wmz.clh.works/">我的博客</a>|<img src="http://wmz.clh.works/me.gif" alt="作者本尊"></p>
 <h2 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h2><p>电脑一个&lt;能用的电脑 网吧也行&gt;<br>电脑一个&lt;你在家里的电脑，没有安装系统&gt;<br>U盘8GB以上<br>OR<br>电脑一个&lt;能用的电脑，在家里的&gt;<br>U盘8GB以上</p>
 <h2 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h2><h3 id="第一步"><a href="#第一步" class="headerlink" title="第一步"></a>第一步</h3><p>把U盘插到电脑上<br>下载个<a href="https://go.microsoft.com/fwlink/?LinkId=691209">工具</a><br>点进去之后等一会<br>只到有个选择的页面<br><strong>注意：要选为另一台电脑安装系统&lt;差不多吧&gt;</strong><br>之后巴拉巴拉自己设置<br>只到您的U盘已经准备就绪</p>
@@ -1751,7 +1751,7 @@
   </entry>
   <entry>
     <title>使用github page做hexo静态网页</title>
-    <url>/96ccccce.html</url>
+    <url>//2020/96ccccce.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="使用gh-page做hexo静态博客"><a href="#使用gh-page做hexo静态博客" class="headerlink" title="使用gh-page做hexo静态博客"></a>使用gh-page做hexo静态博客</h1><p><a href="http://wmz.clh.works/">博客地址</a>|<img src="http://wmz.clh.works/me.gif" alt="me图标"><br>说好做到的 今天就叫大家如何用github page做hexo静态博客</p>
 <h2 id="问答"><a href="#问答" class="headerlink" title="问答"></a>问答</h2><p>你：为什么不用动态网页呢<br>服务器要花钱 github付不起 所以就静态网页了呗</p>
 <h2 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h2><p>你觉得真不用准备？</p>
@@ -1796,7 +1796,7 @@
   </entry>
   <entry>
     <title>如何使用github page做网页</title>
-    <url>/8856403.html</url>
+    <url>//2020/8856403.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="如何使用github-page做个网页"><a href="#如何使用github-page做个网页" class="headerlink" title="如何使用github page做个网页"></a>如何使用github page做个网页</h1><p><a href="http://wmz.clh.works/">我的博客</a>|<img src="http://wmz.clh.works/me.gif" alt="图片"></p>
 <h2 id="前提"><a href="#前提" class="headerlink" title="前提"></a>前提</h2><p>你得会html&lt;最基本了&gt;<br>css和js是次要</p>
 <h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p>那你可能就问了<br>你：为什么不用hexo呢<br>那是博客 下次讲</p>
@@ -1821,7 +1821,7 @@
   </entry>
   <entry>
     <title>这是我的第一个文章</title>
-    <url>/30422b3f.html</url>
+    <url>//2020/30422b3f.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="这是我的第一个文章"><a href="#这是我的第一个文章" class="headerlink" title="这是我的第一个文章"></a>这是我的第一个文章</h1><p>这是我的第一个文章 这是一个博客<br>无聊吧 这个博客正是我这个无聊的人设计的</p>
 <link rel="stylesheet" href="/css/bilicard.css" type="text/css">]]></content>
       <categories>
