@@ -3,18 +3,29 @@
   <entry>
     <title>如何搭建一个网站(没写完呢)</title>
     <url>/a2bad115.html</url>
-    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
-  <script id="hbeData" type="hbeData" data-hmacdigest="8de28e43337e29cda886bcf3ed2b317404f55d412ae522d60058b620f92169a4">45fe332b5c6fe91c687d731c9cd46a3a8cb0e637831a39a832d6cc5a127fcb931ef96f7a33787b8eb8edb9c09ec98d0da1cc418c0930db414f88a00f775b629803f20e014ba31b4abb5f6ee524279c6ed94492c15f17daf7e45f4a78d3273914ae7ff3bea2ff9a9d4b6a4f514f368629f2cad9c30c74877ea089c9566265d68f4a9c2b8cfd71458e6747c511ac5e1bc859d0388fa20e52a8a170ad9b699a5f4d9f9237f489ed98c192162dbbbff951b8abfb7aa558172748838c2e72d1499559944fab2c870bb6938a392ad5c7a7d673c867289f7ea6fa25697e0737b8ac4b42bf7d3622d7458c0530add2e91a7f273ac9dd258bb34369307c1cff4cd8025bc45b67aa663c3ac4a0b1c0fb4a05670738cbf67d920900fbd1a54aa32579c0dc0f846cb11867b8098f776556497397f749022adf6fd474d78b3cbb7f29f686d2e8266bf9a396a0846d13a49d0421948d56ad3c69d9d567dde65d05837a83e7522045aa3870203b88deffed7ecc76b04d9673c47ee9162c51c412527ec822dc3ee7446830aa96e754af79c3e3dfc599f58e99b0980d6600dd172d288ad5168a1b79dc46cfcb394dba8553dba636c1bd7ec5053d52c6361b925533f085a578967f353a2489298595c265fc2f666c82d6a65e86cb3f3aba69f537fccd64b5a2805fa8906f3bc62c2a8a9ade93b9d19e7cf6b16718899b8e45981ef77946e6bb6a5511ef1d19840eb8a153c9c4145fd32d02f9fcceceabe0491298e40b4ca94cd883e0f2f51aac4cf833eff64373edebdcb279dcefa315c42684863492686fbbb110456a509d65b2201cb66ab15898c26524840a69fe726407b8c0f774e78cc5f45732d709be4e17f7fff1eeb0635c357b2568f9bac3a7a33825c50872e4f9e48db8c2b1b36a1f64729154ee95890d38eb8cd2139e8de0acc6f0e1d8670ce41fc04c737028479a04419ba5db1c7d8751fe1b78ae7ad23e681de9d49b86ef9aec00dc525f01ea8270a8fb6398d20cf5d4a406c945885a312ed9355d99f0384f7ecd8aa7813cf5878b128bf2edb14284cdfd61fbd48a80d94f49314c318aea541cf6c8085c13f146ae3a40e42e1a0b917457d46251ac2726863992d42fb4ccd804217cdd45f5b0d9d9eae952c6d5dffa44f75e67afaf1ba060748a8e449882eb7a1e57540a8c61faf2f312e9149f0068e33071d57c5293a88f8851ff178471360b55ba7817a25ff2bc842629d5b62edd2d949ab4466dbeaece0842f46ecf68a6e03304bcd04c1e4d957c59f6906ef02c66672a59fa4fa88f13b4c47c33a6a414c4503dcfad999b068d26844b76fcd53ebcf161e1260556135221aec776481783d3c86eef32ddb6773bd2c02f6a5cb58bf5f08ef0bd61f259fd828adb40ef32923b48719f44ce2a1aa4583a5a16f499c4cdbbe07fc2528a878e24688cc4e9c5233a6e90cd26d3b55025fdd7147142444d1ca98c4de4d073935839401d03f2132f5f1098cbea8f628900194ad95b91c4b470700df6d75716c1ac1dbc1191e1767295bc3b7c</script>
-  <div class="hbe hbe-content">
-    <div class="hbe hbe-input hbe-input-default">
-      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
-      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
-        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
-      </label>
-    </div>
-  </div>
-</div>
-<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="如何搭建一个网站-完整版"><a href="#如何搭建一个网站-完整版" class="headerlink" title="如何搭建一个网站(完整版)"></a>如何搭建一个网站(完整版)</h1><details cyan open><summary> 碎碎念 </summary>
+              <div class='content'>
+              <p>为啥还要讲如何搭建一个网站呢 以前我不是讲过吗 以前的都是零零碎碎的教程 根本没有整合到一起 要是你想找那也很麻烦 所以就重新弄了个比较整合到一起的 而且某些过时消息也弄下（不寒碜！）</p><p>在之后搭建网站可能就会有问题 某些pages服务不给你用了（gitee：念我身份证号好了） 所以会有更改，其实gitee需要了实名 直接断了路 应该是之前弄得就没有什么用 </p><p><img src="https://gitee.com/wmz1024/pic3/raw/master/202109202026850.png" alt="image-20210920202658953"></p><p>域名的事情 其实很多pages服务都带自家的二级域名 比如说GitHub pages（*.github.io) 还有你在网上可以申请到的二级域名也有很多 而且还有付费的域名（比如说我的）自定义性就很高 还有freenom免费域名 这个也不错 也就是tk一些域名</p><p>还有服务器 服务器就很好解决了 有付费的 比如说阿里云的ecs什么的 还有免费的 </p><p>html的可以直接找某些pages服务 还有vercel（托管的）</p><p>php可以使用某些免费空间的 还有vercel（很难用 属于是）还有自己的服务器</p><p>公网IP的话你可以用某些frp 或者自带的 如果服务器自带的IP就不建议直接绑定域名或者直接暴力ip</p>
+              </div>
+            </details>
+
+<h2 id="GitHub搭建网站"><a href="#GitHub搭建网站" class="headerlink" title="GitHub搭建网站"></a>GitHub搭建网站</h2><details red open><summary> 碎碎念（建议看看） </summary>
+              <div class='content'>
+              <p>现在（目前）的情况是GitHub pages访问还算好的了  但是GitHub日渐一日访问不好 每天都挂着v2ray才能访问 完全可以说是被墙 但是git至少还是能上传的（上帝关门开窗）</p><p>github他的二级域名至少不白（目前来看）</p><p>是免费的 而且可以直接上传自动更新（不错）</p><p>也支持绑定自己域名</p>
+              </div>
+            </details>
+
+<h3 id="第一步"><a href="#第一步" class="headerlink" title="第一步"></a>第一步</h3><p><img src="https://gitee.com/wmz1024/pic3/raw/master/202109210930089.png" alt="image-20210921093033277"></p>
+<p>点击<code>New</code>按钮 新建个repo</p>
+<p><img src="https://gitee.com/wmz1024/pic3/raw/master/202109210931731.png" alt="image-20210921093127162"></p>
+<p>仓库名字可以填写 <code>username</code>.github.io 其中<code>username</code>填写</p>
+<p>也可以随意填写</p>
+<details cyan open><summary> 这两个的区别 </summary>
+              <div class='content'>
+              <p>随意填写需要在 setting -&gt; pages 自己打开pages服务</p><p><img src="https://gitee.com/wmz1024/pic3/raw/master/202109210939502.png" alt="image-20210921093915142">点击save</p>
+              </div>
+            </details>
+<link rel="stylesheet" href="/css/bilicard.css" type="text/css">]]></content>
       <categories>
         <category>文章</category>
       </categories>
@@ -1161,8 +1172,8 @@
         <category>文章</category>
       </categories>
       <tags>
-        <tag>git</tag>
         <tag>github</tag>
+        <tag>git</tag>
         <tag>教程</tag>
       </tags>
   </entry>
@@ -1177,8 +1188,8 @@
         <category>文章</category>
       </categories>
       <tags>
-        <tag>git</tag>
         <tag>github</tag>
+        <tag>git</tag>
         <tag>教程</tag>
       </tags>
   </entry>
@@ -1193,8 +1204,8 @@
         <category>文章</category>
       </categories>
       <tags>
-        <tag>git</tag>
         <tag>github</tag>
+        <tag>git</tag>
         <tag>教程</tag>
       </tags>
   </entry>
@@ -1227,8 +1238,8 @@
         <category>文章</category>
       </categories>
       <tags>
-        <tag>git</tag>
         <tag>github</tag>
+        <tag>git</tag>
         <tag>教程</tag>
       </tags>
   </entry>
@@ -1250,7 +1261,7 @@
   <entry>
     <title>经过几天折腾 弄出了个邮箱 i@wmzwsa.xyz</title>
     <url>/11f1a2fc.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="通知-lt-不算是吧-gt"><a href="#通知-lt-不算是吧-gt" class="headerlink" title="通知&lt;不算是吧&gt;"></a>通知&lt;不算是吧&gt;</h1><p>这几天经过几天的折腾<br>弄出来个邮箱<br>可以联系我<br><a href="mailto:&#x69;&#64;&#119;&#109;&#x7a;&#x77;&#115;&#x61;&#46;&#x78;&#121;&#122;">&#x69;&#64;&#119;&#109;&#x7a;&#x77;&#115;&#x61;&#46;&#x78;&#121;&#122;</a></p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="通知-lt-不算是吧-gt"><a href="#通知-lt-不算是吧-gt" class="headerlink" title="通知&lt;不算是吧&gt;"></a>通知&lt;不算是吧&gt;</h1><p>这几天经过几天的折腾<br>弄出来个邮箱<br>可以联系我<br><a href="mailto:&#x69;&#64;&#x77;&#x6d;&#x7a;&#119;&#x73;&#97;&#x2e;&#x78;&#x79;&#122;">&#x69;&#64;&#x77;&#x6d;&#x7a;&#119;&#x73;&#97;&#x2e;&#x78;&#x79;&#122;</a></p>
 <link rel="stylesheet" href="/css/bilicard.css" type="text/css">]]></content>
       <categories>
         <category>通知</category>
@@ -1273,8 +1284,8 @@
         <category>文章</category>
       </categories>
       <tags>
-        <tag>git</tag>
         <tag>github</tag>
+        <tag>git</tag>
         <tag>ssh</tag>
       </tags>
   </entry>
@@ -1385,8 +1396,8 @@
         <category>文章</category>
       </categories>
       <tags>
-        <tag>git</tag>
         <tag>github</tag>
+        <tag>git</tag>
         <tag>github page</tag>
         <tag>vercel</tag>
       </tags>
