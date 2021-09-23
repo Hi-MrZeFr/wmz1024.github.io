@@ -32,10 +32,24 @@
 <h2 id="GitHub上搭建个博客"><a href="#GitHub上搭建个博客" class="headerlink" title="GitHub上搭建个博客"></a>GitHub上搭建个博客</h2><p>目前用的就是hexo的博客 其实你也可以找别的来 </p>
 <p>首先下载一个工具 aki弄得</p>
 <p><a href="https://file.wmza.cn/one/myself/download/menu.sh">https://file.wmza.cn/one/myself/download/menu.sh</a></p>
-<p>复制到一个空文件夹 请确保安装过git（bash）</p>
+<p>复制到一个空文件夹 请确保安装过git（bash） nodejs hexo</p>
 <p>输入 1</p>
 <p>之后就有了</p>
 <p><img src="https://gitee.com/wmz1024/pic3/raw/master/202109211139756.png" alt="image-20210921113929646">剩下的只需要在网上搜一搜上传文章之类的了</p>
+<h2 id="服务器搭建动态博客"><a href="#服务器搭建动态博客" class="headerlink" title="服务器搭建动态博客"></a>服务器搭建动态博客</h2><p>之前我已经发了类似的了</p>
+<p>重置一次</p>
+<p>服务器一般是你需要自己买了（朋友送你也可以）</p>
+<p>bt面板比较麻烦 我这里用xp面板</p>
+<p><img src="https://gitee.com/wmz1024/pic3/raw/master/202109211403201.png" alt="image-20210921140301652"></p>
+<p>我们首先输入xp面板的安装命令</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">wget -O install.sh https://notdocker.xp.cn/install.sh &amp;&amp; sudo bash install.sh</span><br></pre></td></tr></table></figure>
+
+<p><img src="https://gitee.com/wmz1024/pic3/raw/master/202109211437370.png" alt="image-20210921143753087"></p>
+<p><img src="https://gitee.com/wmz1024/pic3/raw/master/202109211450447.png"></p>
+<p>这样子就安装好了 我们登录</p>
+<p><img src="https://gitee.com/wmz1024/pic3/raw/master/202109211451578.png" alt="image-20210921145112148"></p>
+<p>这一步我们选择第一个 </p>
+<p>(还没写完 真的是没有时间了 有时间会写)</p>
 <link rel="stylesheet" href="/css/bilicard.css" type="text/css">]]></content>
       <categories>
         <category>文章</category>
@@ -1184,8 +1198,8 @@
       </categories>
       <tags>
         <tag>github</tag>
-        <tag>git</tag>
         <tag>教程</tag>
+        <tag>git</tag>
       </tags>
   </entry>
   <entry>
@@ -1200,8 +1214,8 @@
       </categories>
       <tags>
         <tag>github</tag>
-        <tag>git</tag>
         <tag>教程</tag>
+        <tag>git</tag>
       </tags>
   </entry>
   <entry>
@@ -1216,8 +1230,8 @@
       </categories>
       <tags>
         <tag>github</tag>
-        <tag>git</tag>
         <tag>教程</tag>
+        <tag>git</tag>
       </tags>
   </entry>
   <entry>
@@ -1250,8 +1264,8 @@
       </categories>
       <tags>
         <tag>github</tag>
-        <tag>git</tag>
         <tag>教程</tag>
+        <tag>git</tag>
       </tags>
   </entry>
   <entry>
@@ -1272,7 +1286,7 @@
   <entry>
     <title>经过几天折腾 弄出了个邮箱 i@wmzwsa.xyz</title>
     <url>//2020/11f1a2fc.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="通知-lt-不算是吧-gt"><a href="#通知-lt-不算是吧-gt" class="headerlink" title="通知&lt;不算是吧&gt;"></a>通知&lt;不算是吧&gt;</h1><p>这几天经过几天的折腾<br>弄出来个邮箱<br>可以联系我<br><a href="mailto:&#x69;&#64;&#119;&#x6d;&#x7a;&#119;&#115;&#x61;&#46;&#120;&#121;&#x7a;">&#x69;&#64;&#119;&#x6d;&#x7a;&#119;&#115;&#x61;&#46;&#120;&#121;&#x7a;</a></p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="通知-lt-不算是吧-gt"><a href="#通知-lt-不算是吧-gt" class="headerlink" title="通知&lt;不算是吧&gt;"></a>通知&lt;不算是吧&gt;</h1><p>这几天经过几天的折腾<br>弄出来个邮箱<br>可以联系我<br><a href="mailto:&#105;&#64;&#119;&#109;&#x7a;&#119;&#115;&#97;&#x2e;&#x78;&#121;&#122;">&#105;&#64;&#119;&#109;&#x7a;&#119;&#115;&#97;&#x2e;&#x78;&#121;&#122;</a></p>
 <link rel="stylesheet" href="/css/bilicard.css" type="text/css">]]></content>
       <categories>
         <category>通知</category>
