@@ -6,7 +6,7 @@
   <link href="http://blog.wmza.cn/atom.xml" rel="self"/>
   
   <link href="http://blog.wmza.cn/"/>
-  <updated>2021-09-26T11:30:28.300Z</updated>
+  <updated>2021-10-09T12:23:39.487Z</updated>
   <id>http://blog.wmza.cn/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title>Hello World</title>
     <link href="http://blog.wmza.cn/2021/4a17b156.html"/>
     <id>http://blog.wmza.cn/2021/4a17b156.html</id>
-    <published>2021-09-26T11:30:28.300Z</published>
-    <updated>2021-09-26T11:30:28.300Z</updated>
+    <published>2021-10-09T12:23:39.487Z</published>
+    <updated>2021-10-09T12:23:39.487Z</updated>
     
     
       
@@ -40,11 +40,38 @@
   </entry>
   
   <entry>
+    <title>termux的奇妙运用（没写完）</title>
+    <link href="http://blog.wmza.cn/2021/37e49068.html"/>
+    <id>http://blog.wmza.cn/2021/37e49068.html</id>
+    <published>2021-10-08T21:11:10.000Z</published>
+    <updated>2021-10-09T12:23:39.487Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="文章" scheme="http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    
+    <category term="termux" scheme="http://blog.wmza.cn/tags/termux/"/>
+    
+    <category term="妙用" scheme="http://blog.wmza.cn/tags/%E5%A6%99%E7%94%A8/"/>
+    
+  </entry>
+  
+  <entry>
     <title>如何搭建一个网站(没写完呢 慢慢更新)</title>
     <link href="http://blog.wmza.cn/2021/a2bad115.html"/>
     <id>http://blog.wmza.cn/2021/a2bad115.html</id>
     <published>2021-09-19T20:44:18.000Z</published>
-    <updated>2021-09-26T11:30:28.304Z</updated>
+    <updated>2021-10-09T12:23:39.487Z</updated>
     
     
       
@@ -71,7 +98,7 @@
     <link href="http://blog.wmza.cn/2021/2f3c3637.html"/>
     <id>http://blog.wmza.cn/2021/2f3c3637.html</id>
     <published>2021-09-09T20:22:53.000Z</published>
-    <updated>2021-09-26T11:30:28.304Z</updated>
+    <updated>2021-10-09T12:23:39.491Z</updated>
     
     
       
@@ -100,7 +127,7 @@
     <link href="http://blog.wmza.cn/2021/c48ef0f6.html"/>
     <id>http://blog.wmza.cn/2021/c48ef0f6.html</id>
     <published>2021-08-09T17:34:15.000Z</published>
-    <updated>2021-09-26T11:30:28.304Z</updated>
+    <updated>2021-10-09T12:23:39.491Z</updated>
     
     
       
@@ -129,7 +156,7 @@
     <link href="http://blog.wmza.cn/2021/87e1c0bc.html"/>
     <id>http://blog.wmza.cn/2021/87e1c0bc.html</id>
     <published>2021-08-06T13:38:22.000Z</published>
-    <updated>2021-09-26T11:30:28.300Z</updated>
+    <updated>2021-10-09T12:23:39.487Z</updated>
     
     
       
@@ -154,7 +181,7 @@
     <link href="http://blog.wmza.cn/2021/5b2b3473.html"/>
     <id>http://blog.wmza.cn/2021/5b2b3473.html</id>
     <published>2021-08-06T12:59:40.000Z</published>
-    <updated>2021-09-26T11:30:28.304Z</updated>
+    <updated>2021-10-09T12:23:39.487Z</updated>
     
     
       
@@ -183,7 +210,7 @@
     <link href="http://blog.wmza.cn/2021/f053c80.html"/>
     <id>http://blog.wmza.cn/2021/f053c80.html</id>
     <published>2021-07-11T14:24:45.000Z</published>
-    <updated>2021-09-26T11:30:28.300Z</updated>
+    <updated>2021-10-09T12:23:39.487Z</updated>
     
     
       
@@ -214,7 +241,7 @@
     <link href="http://blog.wmza.cn/2021/a65bc6b8.html"/>
     <id>http://blog.wmza.cn/2021/a65bc6b8.html</id>
     <published>2021-06-08T15:33:01.000Z</published>
-    <updated>2021-09-26T11:30:28.300Z</updated>
+    <updated>2021-10-09T12:23:39.487Z</updated>
     
     
       
@@ -243,7 +270,7 @@
     <link href="http://blog.wmza.cn/2021/aeb2d36.html"/>
     <id>http://blog.wmza.cn/2021/aeb2d36.html</id>
     <published>2021-06-08T14:51:30.000Z</published>
-    <updated>2021-09-26T11:30:28.300Z</updated>
+    <updated>2021-10-09T12:23:39.487Z</updated>
     
     
       
@@ -268,7 +295,7 @@
     <link href="http://blog.wmza.cn/2021/c53c84e7.html"/>
     <id>http://blog.wmza.cn/2021/c53c84e7.html</id>
     <published>2021-05-22T20:40:42.000Z</published>
-    <updated>2021-09-26T11:30:28.304Z</updated>
+    <updated>2021-10-09T12:23:39.491Z</updated>
     
     
       
@@ -299,7 +326,7 @@
     <link href="http://blog.wmza.cn/2021/ee30bc12.html"/>
     <id>http://blog.wmza.cn/2021/ee30bc12.html</id>
     <published>2021-05-22T19:36:07.000Z</published>
-    <updated>2021-09-26T11:30:28.304Z</updated>
+    <updated>2021-10-09T12:23:39.491Z</updated>
     
     
       
@@ -324,7 +351,7 @@
     <link href="http://blog.wmza.cn/2021/db5f4c9.html"/>
     <id>http://blog.wmza.cn/2021/db5f4c9.html</id>
     <published>2021-05-18T16:57:38.000Z</published>
-    <updated>2021-09-26T11:30:28.304Z</updated>
+    <updated>2021-10-09T12:23:39.487Z</updated>
     
     
       
@@ -353,7 +380,7 @@
     <link href="http://blog.wmza.cn/2021/a8acdd67.html"/>
     <id>http://blog.wmza.cn/2021/a8acdd67.html</id>
     <published>2021-05-17T19:35:05.000Z</published>
-    <updated>2021-09-26T11:30:28.304Z</updated>
+    <updated>2021-10-09T12:23:39.487Z</updated>
     
     
       
@@ -380,7 +407,7 @@
     <link href="http://blog.wmza.cn/2021/dfd2f59a.html"/>
     <id>http://blog.wmza.cn/2021/dfd2f59a.html</id>
     <published>2021-05-03T08:03:27.000Z</published>
-    <updated>2021-09-26T11:30:28.300Z</updated>
+    <updated>2021-10-09T12:23:39.487Z</updated>
     
     
       
@@ -407,7 +434,7 @@
     <link href="http://blog.wmza.cn/2021/c6c9c4db.html"/>
     <id>http://blog.wmza.cn/2021/c6c9c4db.html</id>
     <published>2021-05-03T08:01:34.000Z</published>
-    <updated>2021-09-26T11:30:28.300Z</updated>
+    <updated>2021-10-09T12:23:39.487Z</updated>
     
     
       
@@ -434,7 +461,7 @@
     <link href="http://blog.wmza.cn/2021/ede49718.html"/>
     <id>http://blog.wmza.cn/2021/ede49718.html</id>
     <published>2021-05-03T07:56:29.000Z</published>
-    <updated>2021-09-26T11:30:28.300Z</updated>
+    <updated>2021-10-09T12:23:39.487Z</updated>
     
     
       
@@ -461,7 +488,7 @@
     <link href="http://blog.wmza.cn/2021/d46f6783.html"/>
     <id>http://blog.wmza.cn/2021/d46f6783.html</id>
     <published>2021-04-10T18:13:04.000Z</published>
-    <updated>2021-09-26T11:30:28.304Z</updated>
+    <updated>2021-10-09T12:23:39.491Z</updated>
     
     
     <summary type="html">Here&#39;s something encrypted, password is required to continue reading.</summary>
@@ -476,7 +503,7 @@
     <link href="http://blog.wmza.cn/2021/2ee2518d.html"/>
     <id>http://blog.wmza.cn/2021/2ee2518d.html</id>
     <published>2021-04-10T13:35:31.000Z</published>
-    <updated>2021-09-26T11:30:28.304Z</updated>
+    <updated>2021-10-09T12:23:39.487Z</updated>
     
     
       
@@ -507,7 +534,7 @@
     <link href="http://blog.wmza.cn/2021/3e4cf0e1.html"/>
     <id>http://blog.wmza.cn/2021/3e4cf0e1.html</id>
     <published>2021-02-13T22:43:31.000Z</published>
-    <updated>2021-09-26T11:30:28.304Z</updated>
+    <updated>2021-10-09T12:23:39.491Z</updated>
     
     
       
@@ -524,35 +551,6 @@
     
     
     <category term="更换" scheme="http://blog.wmza.cn/tags/%E6%9B%B4%E6%8D%A2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>debian安装 博客突然坏了 补档</title>
-    <link href="http://blog.wmza.cn/2021/49ab854f.html"/>
-    <id>http://blog.wmza.cn/2021/49ab854f.html</id>
-    <published>2021-02-13T21:17:06.000Z</published>
-    <updated>2021-09-26T11:30:28.300Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="文章" scheme="http://blog.wmza.cn/categories/%E6%96%87%E7%AB%A0/"/>
-    
-    
-    <category term="安装" scheme="http://blog.wmza.cn/tags/%E5%AE%89%E8%A3%85/"/>
-    
-    <category term="debian" scheme="http://blog.wmza.cn/tags/debian/"/>
-    
-    <category term="linux" scheme="http://blog.wmza.cn/tags/linux/"/>
     
   </entry>
   
