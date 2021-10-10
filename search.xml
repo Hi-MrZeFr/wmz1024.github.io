@@ -59,6 +59,30 @@
 <p>选择xfce就可以</p>
 <p>(桌面的安装很慢)</p>
 </blockquote>
+<blockquote>
+<p>如果提示选择端口 选择5902</p>
+<p>如果选择vnc 选择tiger </p>
+<p>如果选择分辨率 安装实际情况选择就可以</p>
+</blockquote>
+<p>安装完后 在容器内输入<code>startvnc</code>开启</p>
+<h2 id="termux终端美化（基于zsh）"><a href="#termux终端美化（基于zsh）" class="headerlink" title="termux终端美化（基于zsh）"></a>termux终端美化（基于zsh）</h2><p>在tmoe工具里面（在termux里输入）</p>
+<p><img src="https://gitee.com/wmz1024/pic3/raw/master/202110100818346.png" alt="image-20211010081836851"></p>
+<p>选择第六项</p>
+<p>之后选择第一项</p>
+<p><img src="https://gitee.com/wmz1024/pic3/raw/master/202110100819572.png" alt="image-20211010081928418"></p>
+<p>这里选择第一个就可以了</p>
+<p><img src="https://gitee.com/wmz1024/pic3/raw/master/202110100822845.png" alt="image-20211010082249325"></p>
+<p>这里正常来说可以填写 171</p>
+<p><img src="https://gitee.com/wmz1024/pic3/raw/master/202110100824558.png" alt="image-20211010082407004"></p>
+<p>这个喜欢哪个就选哪个 我就填1</p>
+<p><img src="https://gitee.com/wmz1024/pic3/raw/master/202110100824878.png" alt="image-20211010082456458"></p>
+<p>这里填个喜欢的字体就行了 我选44</p>
+<p>之后退出工具 在终端内输入 <code>zsh</code></p>
+<p><img src="https://gitee.com/wmz1024/pic3/raw/master/202110100826726.png" alt="image-20211010082605610"></p>
+<h2 id="使用termux中nginx搭建word-press"><a href="#使用termux中nginx搭建word-press" class="headerlink" title="使用termux中nginx搭建word press"></a>使用termux中nginx搭建word press</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">apt install nginx php-fpm mariadb</span><br></pre></td></tr></table></figure>
+
+
+
 <p>（没写完呢）</p>
 <link rel="stylesheet" href="/css/bilicard.css" type="text/css">]]></content>
       <categories>
@@ -1355,7 +1379,7 @@
   <entry>
     <title>经过几天折腾 弄出了个邮箱 i@wmzwsa.xyz</title>
     <url>//2020/11f1a2fc.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="通知-lt-不算是吧-gt"><a href="#通知-lt-不算是吧-gt" class="headerlink" title="通知&lt;不算是吧&gt;"></a>通知&lt;不算是吧&gt;</h1><p>这几天经过几天的折腾<br>弄出来个邮箱<br>可以联系我<br><a href="mailto:&#105;&#64;&#x77;&#x6d;&#x7a;&#119;&#115;&#x61;&#x2e;&#120;&#x79;&#122;">&#105;&#64;&#x77;&#x6d;&#x7a;&#119;&#115;&#x61;&#x2e;&#120;&#x79;&#122;</a></p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="通知-lt-不算是吧-gt"><a href="#通知-lt-不算是吧-gt" class="headerlink" title="通知&lt;不算是吧&gt;"></a>通知&lt;不算是吧&gt;</h1><p>这几天经过几天的折腾<br>弄出来个邮箱<br>可以联系我<br><a href="mailto:&#105;&#64;&#x77;&#109;&#122;&#x77;&#x73;&#97;&#46;&#120;&#121;&#x7a;">&#105;&#64;&#x77;&#109;&#122;&#x77;&#x73;&#97;&#46;&#120;&#121;&#x7a;</a></p>
 <link rel="stylesheet" href="/css/bilicard.css" type="text/css">]]></content>
       <categories>
         <category>通知</category>
